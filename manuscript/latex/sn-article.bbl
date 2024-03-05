@@ -1,218 +1,75 @@
-%% BioMed_Central_Bib_Style_v1.01
+\begin{thebibliography}{22}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\providecommand{\doi}[1]{\url{https://doi.org/#1}}
+\providecommand{\eprint}[2][]{\url{#2}}
+ \bibcommenthead
 
-\begin{thebibliography}{13}
-% BibTex style file: bmc-mathphys.bst (version 2.1), 2014-07-24
-\ifx \bisbn   \undefined \def \bisbn  #1{ISBN #1}\fi
-\ifx \binits  \undefined \def \binits#1{#1}\fi
-\ifx \bauthor  \undefined \def \bauthor#1{#1}\fi
-\ifx \batitle  \undefined \def \batitle#1{#1}\fi
-\ifx \bjtitle  \undefined \def \bjtitle#1{#1}\fi
-\ifx \bvolume  \undefined \def \bvolume#1{\textbf{#1}}\fi
-\ifx \byear  \undefined \def \byear#1{#1}\fi
-\ifx \bissue  \undefined \def \bissue#1{#1}\fi
-\ifx \bfpage  \undefined \def \bfpage#1{#1}\fi
-\ifx \blpage  \undefined \def \blpage #1{#1}\fi
-\ifx \burl  \undefined \def \burl#1{\textsf{#1}}\fi
-\ifx \doiurl  \undefined \def \doiurl#1{\url{https://doi.org/#1}}\fi
-\ifx \betal  \undefined \def \betal{\textit{et al.}}\fi
-\ifx \binstitute  \undefined \def \binstitute#1{#1}\fi
-\ifx \binstitutionaled  \undefined \def \binstitutionaled#1{#1}\fi
-\ifx \bctitle  \undefined \def \bctitle#1{#1}\fi
-\ifx \beditor  \undefined \def \beditor#1{#1}\fi
-\ifx \bpublisher  \undefined \def \bpublisher#1{#1}\fi
-\ifx \bbtitle  \undefined \def \bbtitle#1{#1}\fi
-\ifx \bedition  \undefined \def \bedition#1{#1}\fi
-\ifx \bseriesno  \undefined \def \bseriesno#1{#1}\fi
-\ifx \blocation  \undefined \def \blocation#1{#1}\fi
-\ifx \bsertitle  \undefined \def \bsertitle#1{#1}\fi
-\ifx \bsnm \undefined \def \bsnm#1{#1}\fi
-\ifx \bsuffix \undefined \def \bsuffix#1{#1}\fi
-\ifx \bparticle \undefined \def \bparticle#1{#1}\fi
-\ifx \barticle \undefined \def \barticle#1{#1}\fi
-\bibcommenthead
-\ifx \bconfdate \undefined \def \bconfdate #1{#1}\fi
-\ifx \botherref \undefined \def \botherref #1{#1}\fi
-\ifx \url \undefined \def \url#1{\textsf{#1}}\fi
-\ifx \bchapter \undefined \def \bchapter#1{#1}\fi
-\ifx \bbook \undefined \def \bbook#1{#1}\fi
-\ifx \bcomment \undefined \def \bcomment#1{#1}\fi
-\ifx \oauthor \undefined \def \oauthor#1{#1}\fi
-\ifx \citeauthoryear \undefined \def \citeauthoryear#1{#1}\fi
-\ifx \endbibitem  \undefined \def \endbibitem {}\fi
-\ifx \bconflocation  \undefined \def \bconflocation#1{#1}\fi
-\ifx \arxivurl  \undefined \def \arxivurl#1{\textsf{#1}}\fi
-\csname PreBibitemsHook\endcsname
+\bibitem[{Assefa et~al(2023)Assefa, Bedru, Zeleke, Negash, Debela, Molla, Mengistu, Woldesenbet, Bedane, Kajogoo, Atim, and Manyazewal}]{assefaEfficacySafetyDifferent2023}
+Assefa DG, Bedru A, Zeleke ED, et~al (2023) Efficacy and safety of different regimens in the treatment of patients with latent tuberculosis infection: A systematic review and network meta-analysis of randomized controlled trials. Archives of Public Health 81(1):82. \doi{10.1186/s13690-023-01098-z}
 
-%%% 1
-\bibitem[\protect\citeauthoryear{Campbell and Gear}{1995}]{bib1}
-\begin{barticle}
-\bauthor{\bsnm{Campbell}, \binits{S.L.}},
-\bauthor{\bsnm{Gear}, \binits{C.W.}}:
-\batitle{The index of general nonlinear {D}{A}{E}{S}}.
-\bjtitle{Numer. {M}ath.}
-\bvolume{72}(\bissue{2}),
-\bfpage{173}--\blpage{196}
-(\byear{1995})
-\end{barticle}
-\endbibitem
+\bibitem[{Attaibi and {den Blaauwen}(2022)}]{attaibiUpdatedModelDivisome2022}
+Attaibi M, {den Blaauwen} T (2022) An {{Updated Model}} of the {{Divisome}}: {{Regulation}} of the {{Septal Peptidoglycan Synthesis Machinery}} by the {{Divisome}}. International Journal of Molecular Sciences 23(7):3537. \doi{10.3390/ijms23073537}
 
-%%% 2
-\bibitem[\protect\citeauthoryear{Slifka and Whitton}{2000}]{bib2}
-\begin{barticle}
-\bauthor{\bsnm{Slifka}, \binits{M.K.}},
-\bauthor{\bsnm{Whitton}, \binits{J.L.}}:
-\batitle{Clinical implications of dysregulated cytokine production}.
-\bjtitle{J. {M}ol. {M}ed.}
-\bvolume{78},
-\bfpage{74}--\blpage{80}
-(\byear{2000})
-\doiurl{10.1007/s001090000086}
-\end{barticle}
-\endbibitem
+\bibitem[{Baek et~al(2021)Baek, DiMaio, Anishchenko, Dauparas, Ovchinnikov, Lee, Wang, Cong, Kinch, Schaeffer, Mill{\'a}n, Park, Adams, Glassman, DeGiovanni, Pereira, Rodrigues, {van Dijk}, Ebrecht, Opperman, Sagmeister, Buhlheller, {Pavkov-Keller}, Rathinaswamy, Dalwadi, Yip, Burke, Garcia, Grishin, Adams, Read, and Baker}]{baekAccuratePredictionProtein2021}
+Baek M, DiMaio F, Anishchenko I, et~al (2021) Accurate prediction of protein structures and interactions using a three-track neural network. Science 373(6557):871--876. \doi{10/gk7nhq}
 
-%%% 3
-\bibitem[\protect\citeauthoryear{Hamburger}{1995}]{bib3}
-\begin{barticle}
-\bauthor{\bsnm{Hamburger}, \binits{C.}}:
-\batitle{Quasimonotonicity, regularity and duality for nonlinear systems of partial differential equations}.
-\bjtitle{Ann. Mat. Pura. Appl.}
-\bvolume{169}(\bissue{2}),
-\bfpage{321}--\blpage{354}
-(\byear{1995})
-\end{barticle}
-\endbibitem
+\bibitem[{Britton et~al(2023)Britton, Yovanno, Costa, McCausland, Lau, Xiao, and Hensel}]{brittonConformationalChangesEssential2023}
+Britton BM, Yovanno RA, Costa SF, et~al (2023) Conformational changes in the essential {{E}}. coli septal cell wall synthesis complex suggest an activation mechanism. Nature Communications 14(1):4585. \doi{10.1038/s41467-023-39921-4}
 
-%%% 4
-\bibitem[\protect\citeauthoryear{Geddes et~al.}{1992}]{bib4}
-\begin{bbook}
-\bauthor{\bsnm{Geddes}, \binits{K.O.}},
-\bauthor{\bsnm{Czapor}, \binits{S.R.}},
-\bauthor{\bsnm{Labahn}, \binits{G.}}:
-\bbtitle{Algorithms for {C}omputer {A}lgebra}.
-\bpublisher{Kluwer},
-\blocation{Boston}
-(\byear{1992})
-\end{bbook}
-\endbibitem
+\bibitem[{Craven et~al(2022)Craven, Condon, and Senes}]{cravenModelInteractionsFtsQLB2022}
+Craven SJ, Condon SGF, Senes A (2022) A model of the interactions between the {{FtsQLB}} and the {{FtsWI}} peptidoglycan synthase complex in bacterial cell division. \doi{10.1101/2022.10.30.514410}
 
-%%% 5
-\bibitem[\protect\citeauthoryear{Broy}{1992}]{bib5}
-\begin{bchapter}
-\bauthor{\bsnm{Broy}, \binits{M.}}:
-\bctitle{Software engineering---from auxiliary to key technologies}.
-In: \beditor{\bsnm{Broy}, \binits{M.}},
-\beditor{\bsnm{Denert}, \binits{E.}} (eds.)
-\bbtitle{Software Pioneers},
-pp. \bfpage{10}--\blpage{13}.
-\bpublisher{Springer},
-\blocation{New {Y}ork}
-(\byear{1992})
-\end{bchapter}
-\endbibitem
+\bibitem[{Dale et~al(2021)Dale, Karmakar, Snow, Menzies, Trauer, and Denholm}]{daleQuantifyingRatesLate2021}
+Dale KD, Karmakar M, Snow KJ, et~al (2021) Quantifying the rates of late reactivation tuberculosis: A systematic review. The Lancet Infectious Diseases 21(10):e303--e317. \doi{10.1016/S1473-3099(20)30728-3}
 
-%%% 6
-\bibitem[\protect\citeauthoryear{Seymour}{1981}]{bib6}
-\begin{bbook}
-\beditor{\bsnm{Seymour}, \binits{R.S.}} (ed.):
-\bbtitle{Conductive {P}olymers}.
-\bpublisher{Plenum},
-\blocation{New {Y}ork}
-(\byear{1981})
-\end{bbook}
-\endbibitem
+\bibitem[{Dartois and Rubin(2022)}]{dartoisAntituberculosisTreatmentStrategies2022}
+Dartois VA, Rubin EJ (2022) Anti-tuberculosis treatment strategies and drug development: Challenges and priorities. Nature Reviews Microbiology 20(11):685--701. \doi{10.1038/s41579-022-00731-y}
 
-%%% 7
-\bibitem[\protect\citeauthoryear{Smith}{1976}]{bib7}
-\begin{bchapter}
-\bauthor{\bsnm{Smith}, \binits{S.E.}}:
-\bctitle{Neuromuscular blocking drugs in man}.
-In: \beditor{\bsnm{Zaimis}, \binits{E.}} (ed.)
-\bbtitle{Neuromuscular Junction. {H}andbook of Experimental Pharmacology},
-vol. \bseriesno{42},
-pp. \bfpage{593}--\blpage{660}.
-\bpublisher{Springer},
-\blocation{Heidelberg}
-(\byear{1976})
-\end{bchapter}
-\endbibitem
+\bibitem[{Evans et~al(2022)Evans, O'Neill, Pritzel, Antropova, Senior, Green, {\v Z}{\'i}dek, Bates, Blackwell, Yim, Ronneberger, Bodenstein, Zielinski, Bridgland, Potapenko, Cowie, Tunyasuvunakool, Jain, Clancy, Kohli, Jumper, and Hassabis}]{evansProteinComplexPrediction2022}
+Evans R, O'Neill M, Pritzel A, et~al (2022) Protein complex prediction with {{AlphaFold-Multimer}}. \doi{10.1101/2021.10.04.463034}
 
-%%% 8
-\bibitem[\protect\citeauthoryear{Chung and Morris}{1978}]{bib8}
-\begin{botherref}
-\oauthor{\bsnm{Chung}, \binits{S.T.}},
-\oauthor{\bsnm{Morris}, \binits{R.L.}}:
-Isolation and characterization of plasmid deoxyribonucleic acid from Streptomyces fradiae.
-Paper presented at the 3rd international symposium on the genetics of industrial microorganisms, University of {W}isconsin, {M}adison, 4--9 June 1978
-(1978)
-\end{botherref}
-\endbibitem
+\bibitem[{Goodsmith et~al(2015)Goodsmith, Guo, Vandal, Vaubourgeix, Wang, Botella, Song, Bhatt, Liba, Salgame, Schnappinger, and Ehrt}]{goodsmithDisruptionTuberculosisMembrane2015}
+Goodsmith N, Guo XV, Vandal OH, et~al (2015) Disruption of an {{M}}. tuberculosis {{Membrane Protein Causes}} a {{Magnesium-dependent Cell Division Defect}} and {{Failure}} to {{Persist}} in {{Mice}}. PLoS Pathogens 11(2). \doi{10.1371/journal.ppat.1004645}
 
-%%% 9
-\bibitem[\protect\citeauthoryear{Hao et~al.}{2014}]{bib9}
-\begin{botherref}
-\oauthor{\bsnm{Hao}, \binits{Z.}},
-\oauthor{\bsnm{AghaKouchak}, \binits{A.}},
-\oauthor{\bsnm{Nakhjiri}, \binits{N.}},
-\oauthor{\bsnm{Farahmand}, \binits{A.}}:
-Global integrated drought monitoring and prediction system (GIDMaPS) data sets.
-figshare \url{https://doi.org/10.6084/m9.figshare.853801}
-(2014)
-\end{botherref}
-\endbibitem
+\bibitem[{Gr{\=a}ve et~al(2022)Gr{\=a}ve, Bennett, and H{\"o}gbom}]{graveHighthroughputStrategyIdentification2022}
+Gr{\=a}ve K, Bennett MD, H{\"o}gbom M (2022) High-throughput strategy for identification of {{Mycobacterium}} tuberculosis membrane protein expression conditions using folding reporter {{GFP}}. Protein Expression and Purification 198:106132. \doi{10.1016/j.pep.2022.106132}
 
-%%% 10
-\bibitem[\protect\citeauthoryear{Babichev et~al.}{2002}]{bib10}
-\begin{botherref}
-\oauthor{\bsnm{Babichev}, \binits{S.A.}},
-\oauthor{\bsnm{Ries}, \binits{J.}},
-\oauthor{\bsnm{Lvovsky}, \binits{A.I.}}:
-Quantum scissors: teleportation of single-mode optical states by means of a nonlocal single photon.
-Preprint at \url{https://arxiv.org/abs/quant-ph/0208066v1}
-(2002)
-\end{botherref}
-\endbibitem
+\bibitem[{Houben and Dodd(2016)}]{houbenGlobalBurdenLatent2016}
+Houben RMGJ, Dodd PJ (2016) The {{Global Burden}} of {{Latent Tuberculosis Infection}}: {{A Re-estimation Using Mathematical Modelling}}. PLOS Medicine 13(10):e1002152. \doi{10.1371/journal.pmed.1002152}
 
-%%% 11
-\bibitem[\protect\citeauthoryear{Beneke et~al.}{1997}]{bib11}
-\begin{barticle}
-\bauthor{\bsnm{Beneke}, \binits{M.}},
-\bauthor{\bsnm{Buchalla}, \binits{G.}},
-\bauthor{\bsnm{Dunietz}, \binits{I.}}:
-\batitle{Mixing induced {CP} asymmetries in inclusive {B} decays}.
-\bjtitle{Phys. {L}ett.}
-\bvolume{B393},
-\bfpage{132}--\blpage{142}
-(\byear{1997})
-{\href{https://arxiv.org/abs/0707.3168}{{arXiv:0707.3168}}}
-{[gr-gc]}
-\end{barticle}
-\endbibitem
+\bibitem[{K{\"a}shammer et~al(2023)K{\"a}shammer, {van den Ent}, Jeffery, Jean, Hale, and L{\"o}we}]{kashammerCryoEMStructureBacterial2023}
+K{\"a}shammer L, {van den Ent} F, Jeffery M, et~al (2023) Cryo-{{EM}} structure of the bacterial divisome core complex and antibiotic target {{FtsWIQBL}}. Nature Microbiology pp 1--11. \doi{10.1038/s41564-023-01368-0}
 
-%%% 12
-\bibitem[\protect\citeauthoryear{Stahl}{2020}]{bib12}
-\begin{botherref}
-\oauthor{\bsnm{Stahl}, \binits{B.}}:
-Deep{SIP}: Deep Learning of {S}upernova {I}a {P}arameters,
-0.42,
-Astrophysics {S}ource {C}ode {L}ibrary
-(2020),
-{\href{https://ascl.net/2006.023}{{ascl:2006.023}}}
-\end{botherref}
-\endbibitem
+\bibitem[{Korepanova et~al(2005)Korepanova, Gao, Hua, Qin, Nakamoto, and Cross}]{korepanovaCloningExpressionMultiple2005}
+Korepanova A, Gao FP, Hua Y, et~al (2005) Cloning and expression of multiple integral membrane proteins from {{Mycobacterium}} tuberculosis in {{Escherichia}} coli. Protein Science : A Publication of the Protein Society 14(1):148--158. \doi{2023101017072700228}
 
-%%% 13
-\bibitem[\protect\citeauthoryear{Abbott et~al.}{2019}]{bib13}
-\begin{barticle}
-\bauthor{\bsnm{Abbott}, \binits{T.M.C.}}, \betal:
-\batitle{{Dark Energy Survey Year 1 Results: Constraints on Extended Cosmological Models from Galaxy Clustering and Weak Lensing}}.
-\bjtitle{Phys. Rev. D}
-\bvolume{99}(\bissue{12}),
-\bfpage{123505}
-(\byear{2019})
-\doiurl{10.1103/PhysRevD.99.123505}
-{\href{https://arxiv.org/abs/1810.02499}{{arXiv:1810.02499}}}
-{[astro-ph.CO]}
-\end{barticle}
-\endbibitem
+\bibitem[{Li et~al(2021)Li, Chan, Wang, Jou, Yu, Putri, Lee, and Lin}]{liAcquiredResistanceIsoniazid2021}
+Li TL, Chan TH, Wang CH, et~al (2021) Acquired {{Resistance}} to {{Isoniazid During Isoniazid Monotherapy}} in a {{Subject}} with {{Latent Infection Following Household Rifampicin-Resistant Tuberculosis Contact}}: {{A Case Report}}. Infection and Drug Resistance 14:1505--1509. \doi{10.2147/IDR.S304799}
+
+\bibitem[{Lucena et~al(2018)Lucena, Mauri, Schmidt, Eckhardt, and Graumann}]{lucenaMicrodomainFormationGeneral2018}
+Lucena D, Mauri M, Schmidt F, et~al (2018) Microdomain formation is a general property of bacterial membrane proteins and induces heterogeneity of diffusion patterns. BMC Biology 16(1):97. \doi{10.1186/s12915-018-0561-0}
+
+\bibitem[{Meade et~al(2023)Meade, Long, Jinich, Rhee, Ashbrook, Williams, Sassetti, and Smith}]{meadeGenomewideScreenIdentifies2023}
+Meade RK, Long JE, Jinich A, et~al (2023) Genome-wide screen identifies host loci that modulate {{Mycobacterium}} tuberculosis fitness in immunodivergent mice. G3 Genes{\textbar}Genomes{\textbar}Genetics 13(9):jkad147. \doi{10.1093/g3journal/jkad147}
+
+\bibitem[{Park et~al(2023)Park, Park, Pichoff, Du, and Lutkenhaus}]{parkEssentialDomainFtsN2023}
+Park KT, Park DJ, Pichoff S, et~al (2023) The essential domain of {{FtsN}} triggers cell division by promoting interaction between {{FtsL}} and {{FtsI}}. \doi{10.1101/2023.05.12.540521}
+
+\bibitem[{Paulussen et~al(2022)Paulussen, Schouten, Moertl, Verheul, Hoekstra, Koningstein, Hutchins, Alkir, Luirink, Geerke, {van Ulsen}, {den Blaauwen}, Luirink, and Grossmann}]{paulussenCovalentProteomimeticInhibitor2022}
+Paulussen FM, Schouten GK, Moertl C, et~al (2022) Covalent {{Proteomimetic Inhibitor}} of the {{Bacterial FtsQB Divisome Complex}}. Journal of the American Chemical Society 144(33):15303--15313. \doi{10.1021/jacs.2c06304}
+
+\bibitem[{Vandal et~al(2008)Vandal, Pierini, Schnappinger, Nathan, and Ehrt}]{vandalMembraneProteinPreserves2008}
+Vandal OH, Pierini LM, Schnappinger D, et~al (2008) A membrane protein preserves intrabacterial {{pH}} in intraphagosomal {{Mycobacterium}} tuberculosis. Nature medicine 14(8):849. \doi{10.1038/nmXXXX}
+
+\bibitem[{Wang et~al(2019)Wang, Kreutzfeldt, Botella, Vaubourgeix, Schnappinger, and Ehrt}]{wangPersistentMycobacteriumTuberculosis2019}
+Wang R, Kreutzfeldt K, Botella H, et~al (2019) Persistent {{Mycobacterium}} tuberculosis infection in mice requires {{PerM}} for successful cell division. eLife 8:e49570. \doi{10.7554/eLife.49570}
+
+\bibitem[{WHO(2018)}]{whoLatentTuberculosisInfection2018}
+WHO (2018) Latent tuberculosis infection: Updated and consolidated guidelines for programmatic management. Tech. rep.
+
+\bibitem[{Wu et~al(2018)Wu, Zhang, Baranowski, Leung, Rego, Morita, Rubin, and Boutte}]{wuCharacterizationConservedNovel2018}
+Wu KJ, Zhang J, Baranowski C, et~al (2018) Characterization of {{Conserved}} and {{Novel Septal Factors}} in {{Mycobacterium}} smegmatis. Journal of Bacteriology 200(6):e00649--17. \doi{10.1128/JB.00649-17}
 
 \end{thebibliography}

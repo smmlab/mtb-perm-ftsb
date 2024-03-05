@@ -1,0 +1,33 @@
+In contact after 100, 500 aMD, 500 ns simulation with FtsB 185-191 heavy atoms <= 4 A
+
+40 THR New	not very conserved
+43 GLN kept	conserved in myco
+54 ALA New	conserved in myco
+57 ALA New  VERY CONSERVED (8/10)
+58 ILE New	fairly conserved medium hydrophobic here
+60 SER New	conserved in myco
+61 MET New	conserved in myco
+72 ILE		somewhat conserved
+77 LEU New	VERY CONSERVED (7/10)
+219 LEU New conserved in myco
+222 ILE		conserved in myco
+223 THR New	conserved in myco
+225 SER New	Somewhat conserved
+227 PHE New	conserved in myco
+228 GLY		VERY CONSERVED (7/10 and 1 alanine)
+231 SER		conserved in myco
+239 TYR New 100% conserved
+
+In contact in prediction
+
+43 GLN
+47 ALA	Lost
+49 SER	Lost
+72 ILE
+75 ARG	Lost
+222 ILE
+228 GLY
+231 SER
+232 LEU	Lost
+235 LEU	Lost
+275 ALA	Lost
