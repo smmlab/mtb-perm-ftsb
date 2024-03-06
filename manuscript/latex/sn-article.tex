@@ -164,7 +164,7 @@ In order to confirm that FtsB increases membrane-localized PerM expression and, 
 \begin{figure*}[h]
 \centering
 \includegraphics[width=1.0\textwidth]{../figures/fig3.png}
-\caption{\textbf{FtsB stabilizes PerM in the \ec{} membrane.} (\textbf{A}) Distribution of single-cell mTurquoise2 concentration (mean $\pm$ standard deviation) for FtsB constructs in different conditions, each with replicates. Dashed red line is the mean value for \permN{} and \ftsbdLQ{} expression with \qty{100}{uM} IPTG. Uninduced \ftsbdLQ{} is indicated with a down arrow. A logarithmic scale is used to allow comparison of high- and low-expression conditions. (\textbf{B}) Example data from microcolonies for each condition. The uninduced \ftsbdLQ{} condition has very low fluorescence in example data because identical minimum and maximum intensities were used. Scale bar \qty{5}{\um}. (\textbf{C,D}) Distribution of single-cell mNeonGreen concentrations and example data for Pf3-mNG, mNeonGreen alone, or \permN{}-mNG in different conditions; prepared identically to \textbf{A} and \textbf{B}. (\textbf{E}) Left: example data analysis showing cell segmentation and isolated, single-cell intensities. Right: Scatter plots of single-pixel intensities for each cell show clear correlation for Pf3-mNG and PerM-mNG, but not for mNeonGreen alone. (\textbf{F}) Distribution of single-cell Spearman correlation coefficients (mean $\pm$ standard deviation) for three replicates.}\label{fig3}
+\caption{\textbf{FtsB stabilizes PerM in the \ec{} membrane.} (\textbf{A}) Distribution of single-cell mTurquoise2 concentration (mean $\pm$ standard deviation) for FtsB constructs in different conditions, each with replicates. Dashed red line indicates the mean value for the reference condition (\permN{}-mNG, mTq2-\ftsbdLQ{}, \qty{100}{uM} IPTG, \qty{10}{nM} ATc. Uninduced \ftsbdLQ{} is indicated with a down arrow. A logarithmic scale is used to allow comparison of high- and low-expression conditions. (\textbf{B}) Example data from microcolonies for each condition. The uninduced \ftsbdLQ{} condition has very low fluorescence in example data because identical minimum and maximum intensities were used. Scale bar \qty{5}{\um}. (\textbf{C,D}) Distribution of single-cell mNeonGreen concentrations and example data for Pf3-mNG, mNeonGreen alone, or \permN{}-mNG in different conditions; prepared identically to \textbf{A} and \textbf{B}. (\textbf{E}) Left: example data analysis showing cell segmentation and isolated, single-cell intensities. Right: Scatter plots of single-pixel intensities for each cell show clear correlation for Pf3-mNG and PerM-mNG, but not for mNeonGreen alone. (\textbf{F}) Distribution of single-cell Spearman correlation coefficients (mean $\pm$ standard deviation) for three replicates.}\label{fig3}
 \end{figure*}
 
 Relative to the reference condition (\permN{} and \ftsbdLQ{}, \qty{10}{\nM} ATc), there was an \qty{89}{\percent} ($p=\num{3.3e-12}$) decrease in mTq2-\ftsbdLQ{} expression in the absence of induction, with no significant differences observed for other conditions. The absence of any significant impact on wild-type FtsB expression ($p=0.97$) compared to when FtsB was expressed in the absence of PerM (compare Fig.~\ref{fig3}B to Fig.~\ref{fig2}A) suggests that \permN{} stabilizes FtsB when expressed in \ec{}, as was observed in \mtb{} \citep{wangPersistentMycobacteriumTuberculosis2019}. There was also no obvious difference in localization of any FtsB variant in any condition tested.
@@ -186,7 +186,7 @@ Check out Fig. \ref{fig4}!
 \begin{figure*}[h]
 \centering
 \includegraphics[width=1.0\textwidth]{../figures/fig4.png}
-\caption{\textbf{PerM-FtsB binding detected by FtsB single-molecule tracking.} (\textbf{A}) Left: single, 33-ms frame from timelapse fluorescence imaging of mEos3.2-\ftsbdLQ{} diffusion in \ec{}. Right: Single-molecule localization tracks for the entire movie show membrane-localized diffusion. Scale bar $2~\mu$m. (\textbf{B}) Posterior occupancies in a model of regular Brownian motion and localization error were marginalized over localization error to estimate the distribution of apparent 2D diffusion coefficients. Distributions and their means (dashed lines) are shown for three replicates of experiments combining \permN{}-mNG with either mEos3.2-\ftsbdLQ{} or mEos3.2-\ftsbdLQdH{}. (\textbf{C}) Estimated distributions of diffusion coefficients inferred from single-molecule tracking of either \permN{}-mNG or Pf3-mNG with either \ftsbdLQ{} or \ftsbdLQdH{} (single experiment). Dashed line is the mean estimated diffusion coefficient for \permN{}+\ftsbdLQ{}. (\textbf{D}) Mean estimated distribution of diffusion coefficients for either mEos3.2-\ftsbdLQ{} or mEos3.2-\ftsbdLQdH{} co-expressed with either Pf3-mNG or \permN{}-mNG (with or without addition of 100~$\mu$M~IPTG).}\label{fig4}
+\caption{\textbf{PerM-FtsB binding detected by FtsB single-molecule tracking.} (\textbf{A}) Left: single, 33-ms frame from a fluorescence microscopy movie of mEos3.2-\ftsbdLQ{} diffusion in \ec{}. Right: Single-molecule localization and tracking results for the entire movie show membrane-localized diffusion. Scale bar $2~\mu$m. (\textbf{B}) Posterior occupancies in a model of regular Brownian motion and localization error were marginalized over localization error to estimate the distribution of apparent 2D diffusion coefficients. Distributions and their means (dashed lines) are shown for three replicates of experiments combining \permN{}-mNG with either mEos3.2-\ftsbdLQ{} or mEos3.2-\ftsbdLQdH{}. (\textbf{C}) Estimated distributions of diffusion coefficients inferred from single-molecule tracking of either \permN{}-mNG or Pf3-mNG with either \ftsbdLQ{} or \ftsbdLQdH{} (single experiment). Vertical lines indicate the mean estimated diffusion coefficient for each condition. (\textbf{D}) Estimated distribution of diffusion coefficients for either mEos3.2-\ftsbdLQ{} or mEos3.2-\ftsbdLQdH{} co-expressed with either Pf3-mNG or \permN{}-mNG (with or without addition of 100~$\mu$M~IPTG), inferred from combining data from three replicates. Vertical lines indicate mean estimated diffusion coefficients and the dashed vertical line is replicated from \textbf{C}.}\label{fig4}
 \end{figure*}
 
 \subsection{Complex MD (fig 5)}
@@ -223,25 +223,42 @@ Note region initially predicted and used for MD.
 
 \subsection{Structure prediction}
 
+colabfold.
+mmseqs2.
+AF2-multimer.
+Pymol for visualization.
+
 \loremipsum{}
 
 \subsection{Molecular dynamics}
 
+PerM-FtsB simulations.
+System details.
+Simulation methods.
+Analysis RMSD.
+Analysis H bond distance.
+
+Divisome simulation. System details. Simulation methods. Active site residue positions. Angle and PerM distance calculations.
+
 \loremipsum{}
 
 \subsection{Sequence analysis}
+
+Identification of diverse species with PerM-FtsB interactions by searching for PerM homologs.
+Multiple sequence alignment.
 
 \loremipsum{}
 
 \subsection{Strains}
 
 Cloning details.
+Strain list.
 
 \loremipsum{} 
 
 \subsection{Microscopy}
 
-Cell growth.
+Cell growth is same for both types of images.
 Sample preparation.
 Microscope details.
 
