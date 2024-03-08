@@ -1,0 +1,56 @@
+
+Segments used
+
+Initial simulation and dC simulation:
+FtsQ 92-314 (native C terminus)
+FtsL 120-232 (CT3)
+FtsB 74-205 (CT3)
+FtsW 41-456 (CT3)
+PbpB 79-679 (native C terminus)
+PerM 10-385 (CT3)
+
+dC dH simulation:
+FtsQ 92-314 (native C terminus)
+FtsL 120-232 (CT3)
+FtsB 74-185 (CT3)
+FtsW 41-456 (CT3)
+PbpB 79-679 (native C terminus)
+PerM 10-385 (CT3)
+
+In uncorrected trajectories
+
+FtsW D311 > 271
+PbpB S386 > 308
+
+segments = {'FTSQ':92,'FTSL':120,'FTSB':74,'FTSW':41,'PBPB':79,'PERM':10}
+for s in segments.keys(): cmd.alter('visible and segi ' + s,'resi=str(int(resi) + ' + str(segments[s]-1) + ')')
+
+Methods:
+
+0. Load trajectory
+	drag in protein-only-initial-frame pdb and rename
+	load_traj protein-only.dcd, dC_dH_trajectory
+
+	colors = {'FTSQ':'slate_gray','FTSL':'lime_green','FTSB':'coral','FTSW':'lavender','PBPB':'goldenrod','PERM':'sky_blue'}
+	for s in colors.keys(): cmd.color(colors[s],' visible and segi ' + s)
+	cartoon loop, visible
+
+1. Align 
+
+	align dC_dH_trajectory and segi FTSW, Mtb_FtsQLBW_PBPb_PerM and segi FTSW, mobile_state = 10000
+	intra_fit dC_dH_trajectory and segi FTSW,10000 # this is rough and does not align very well
+
+	mobile = 'initial_simulation and segi FTSW and name CA'
+	target = 'Mtb_FtsQLBW_PBPb_PerM and segi FTSW and name CA'
+
+	for i in range(5000): cmd.align(mobile, target, mobile_state=i+1) # this is VERY slow; do not use this!
+
+1. "Initial" state is 500 ns (frame 5000) of complex_preliminary folder data
+2. dC dH compared to 1000 ns (frame 10000) of complex-dC and complex-dC-dH folders
+3. All match final frame all-atom PDBs
+
+
+Things to measure:
+
+1. Final angle 
+2. FtsW RMSD after alignment in Pymol in final conformer

@@ -1,3 +1,13 @@
+# name and number segments in structure prediction
+
+segments = {'B':['FTSQ',92],'C':['FTSL',120],'D':['FTSB',74],'E':['FTSW',41],'F':['PBPB',79],'G':['PERM',10]}
+
+segments = {'B':['FTSQ',74],'C':['FTSL',122],'D':['FTSB',74],'E':['FTSW',41],'F':['PBPB',79],'G':['PERM',10]}
+
+for s in segments.keys(): cmd.alter('visible and chain ' + s,'segi="' + segments[s][0] + '"')
+
+for s in segments.keys(): cmd.alter('visible and chain ' + s,'resi=str(int(resi) + ' + str(segments[s][1]-1) + ')')
+
 # common perception
 set_color sky_blue, (135, 206, 235)
 set_color coral, (255, 127, 80)
@@ -36,5 +46,3 @@ set ray_opaque_background, off
 for i in range(11,391): print(i,cmd.rms_cur('first_* and name CA and segi PERM and resi ' + str(i), 'AF* and name CA and segi PERM and resi ' + str(i), matchmaker=-1), sep='\t')
 
 rms_cur.cmd('first_* and name CA and chain A', 'AF* and name CA and resi 11-390', matchmaker=-1)
-
-for i in 

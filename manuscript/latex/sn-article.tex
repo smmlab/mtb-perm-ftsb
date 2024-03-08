@@ -40,7 +40,8 @@
 % Taxonomy
 \newcommand\ec{\textit{E.~coli}}
 \newcommand\ecfull{\textit{Escherichia coli}}
-\newcommand\mtb{\textit{M.~tuberculosis}}
+% \newcommand\mtb{\textit{M.~tuberculosis}}
+\newcommand\mtb{Mtb}
 \newcommand\mtbfull{\textit{Mycobacterium tuberculosis}}
 \newcommand\msmegfull{\textit{Mycolicibacterium smegmatis}}
 \newcommand\pafull{\textit{Pseudomonas aeruginosa}}
@@ -77,11 +78,11 @@
 
 \section{Introduction}\label{sec1}
 
-\mtbfull{} is a major contributor to preventable deaths by infectious disease and has infected approximately a quarter of the global population \citep{houbenGlobalBurdenLatent2016}. Most infections progress to latent tuberculosis infection (LTBI), characterized by an immunological response to \mtb{} antigens without clinical signs of active TB \citep{whoLatentTuberculosisInfection2018}. Preventing establishment and reactivation of LTBI is a growing priority for TB elimination strategies, although uncertainties continue to limit measurements of the relative burdens of new TB infections and LTBI reactivation \citep{daleQuantifyingRatesLate2021}. Protocols that reduce the duration and adverse effects of treatment can reduce LTBI burden by improving upon completion rates for preventative treatment \citep{assefaEfficacySafetyDifferent2023}. Furthermore, imperfect treatment over long periods can contribute to acquisition of drug resistance \citep{liAcquiredResistanceIsoniazid2021}. Consequently, it is imperative to better understand how \mtb{} infections persist to establish LTBI to inform strategies for novel LTBI treatments with higher efficacy, shorter durations, and reduced risk of drug resistance.
+\mtbfull{} (\mtb{}) is a major contributor to preventable deaths by infectious disease and has infected approximately a quarter of the global population \citep{houbenGlobalBurdenLatent2016}. Most infections progress to latent tuberculosis infection (LTBI), characterized by an immunological response to \mtb{} antigens without clinical signs of active TB \citep{whoLatentTuberculosisInfection2018}. Preventing establishment and reactivation of LTBI is a growing priority for TB elimination strategies, although uncertainties continue to limit measurements of the relative burdens of new TB infections and LTBI reactivation \citep{daleQuantifyingRatesLate2021}. Protocols that reduce the duration and adverse effects of treatment can reduce LTBI burden by improving upon completion rates for preventative treatment \citep{assefaEfficacySafetyDifferent2023}. Furthermore, imperfect treatment over long periods can contribute to acquisition of drug resistance \citep{liAcquiredResistanceIsoniazid2021}. Consequently, it is imperative to better understand how \mtb{} infections persist to establish LTBI to inform strategies for novel LTBI treatments with higher efficacy, shorter durations, and reduced risk of drug resistance.
 
 A potential strategy to prevent establishment and reactivation of LTBI is to characterize and target mechanisms through which \mtb{} persists through host-induced stress \citep{dartoisAntituberculosisTreatmentStrategies2022}. The actinomycete protein PerM was one of 21 genes identified in a screen of transposon \mtb{} mutants with attenuated growth at pH~$4.5$ in media containing Tween 80, with most of the identified genes being associated with cell wall synthesis \citep{vandalMembraneProteinPreserves2008}. A subsequent study focused on PerM, finding that Mtb PerM knockout reduced growth during chronic mouse infection and increased $\beta$-lactam antibiotic susceptibility. Localization of fluorescently tagged PerM to dividing septa suggested a connection to cell division \citep{goodsmithDisruptionTuberculosisMembrane2015}. Further work demonstrated that PerM associates with the Mtb divisome, a protein complex orchestrating cell wall remodeling during division, and that PerM depletion can be complemented by overexpression of the divisome component FtsB \citep{wangPersistentMycobacteriumTuberculosis2019}. PerM was also recently identified by transposon sequencing to play an even more significant role in infecting mice in a background with weakened adaptive immune response \citep{meadeGenomewideScreenIdentifies2023}.
 
-Recently, a covalent inhibitor of divisome formation based upon the structure of FtsB-FtsQ was developed and found to be active in vivo against drug-resistant \ec{} \citep{paulussenCovalentProteomimeticInhibitor2022}. The \mtb{} proteome includes homologs of the five core \ec{} divisome proteins FtsQ, FtsL, FtsB, FtsW, and FtsI \citep{wuCharacterizationConservedNovel2018}, suggesting that a similar approach can target protein-protein interactions in the \mtb{} divisome. However, it is unknown whether PerM directly interacts with FtsB  \citep{wangPersistentMycobacteriumTuberculosis2019} and, if it does, whether there is a regulatory mechanism for PerM beyond impacting FtsB stability. PerM lacks known orthologs outside of Actinomycetota \citep{goodsmithDisruptionTuberculosisMembrane2015}, so PerM interactions could potentially be targets of specific therapy. However, no experimental structural data have been published on the PerM-FtsB interaction or on PerM alone to guide experimental design. Expression and purification of Mtb PerM and FtsB for structural study is likely to pose difficulties given that FtsB stability depends upon PerM co-expression in Mtb and \msmegfull{} \citep{wangPersistentMycobacteriumTuberculosis2019}. Furthermore, proteins such as PerM with a high number of transmembrane helices pose challenges for recombinant expression \citep{graveHighthroughputStrategyIdentification2022, korepanovaCloningExpressionMultiple2005}.
+Recently, a covalent inhibitor of divisome formation based upon the structure of FtsB-FtsQ was developed and found to be active against drug-resistant \ec{} in an animal infection model \citep{paulussenCovalentProteomimeticInhibitor2022}. The \mtb{} proteome includes homologs of the five core \ec{} divisome proteins FtsQ, FtsL, FtsB, FtsW, and FtsI \citep{wuCharacterizationConservedNovel2018}, suggesting that a similar approach can target protein-protein interactions in the \mtb{} divisome. However, it is unknown whether PerM directly interacts with FtsB  \citep{wangPersistentMycobacteriumTuberculosis2019} and, if it does, whether there is a regulatory mechanism for PerM beyond impacting FtsB stability. PerM lacks known orthologs outside of Actinomycetota \citep{goodsmithDisruptionTuberculosisMembrane2015}, so PerM interactions could potentially be targets of specific therapy. However, no experimental structural data have been published on the PerM-FtsB interaction or on PerM alone to guide experimental design. Expression and purification of Mtb PerM and FtsB for structural study is likely to pose difficulties given that FtsB stability depends upon PerM co-expression in Mtb and \msmegfull{} \citep{wangPersistentMycobacteriumTuberculosis2019}. Furthermore, proteins such as PerM with a high number of transmembrane helices pose challenges for recombinant expression \citep{graveHighthroughputStrategyIdentification2022, korepanovaCloningExpressionMultiple2005}.
 
 Recent insights into the molecular structure and regulatory mechanisms of the gram-negative divisome have been enabled by the confluence of protein structure prediction, cryogenic electron microscopy (Cryo-EM), and molecular dynamics (MD) simulations. The extension from prediction of monomers to protein complexes \citep{baekAccuratePredictionProtein2021, evansProteinComplexPrediction2022} facilitated rapid structure prediction of the core \ec{} divisome \citep{attaibiUpdatedModelDivisome2022, cravenModelInteractionsFtsQLB2022}. Analysis of a Cryo-EM structure of the \pafull{} divisome was largely consistent with predicted protein-protein interfaces, but also revealed a global conformational change absent in structure predictions \citep{kashammerCryoEMStructureBacterial2023}. All-atom MD simulations identified this conformational change within 1 $\mu$s, and further predicted interactions between the core divisome and \ec{} FtsN \citep{brittonConformationalChangesEssential2023}. However, limitations of this MD approach, such as uncertainty in structure predictions and limited MD timescales, call for experimental validation. Importantly, in silico predictions for FtsN were corroborated by experimental results in living cells \citep{parkEssentialDomainFtsN2023}.
 
@@ -109,7 +110,7 @@ Fig.~\ref{fig1_1}A shows aMD results for PerM\textsuperscript{61--204} and FtsB\
 \begin{figure*}[h]
 \centering
 \includegraphics[width=1.0\textwidth]{../figures/fig1_1.png}
-\caption{\textbf{A conserved, predicted \mtb{} PerM-FtsB interaction stabilizes PerM in MD.} (\textbf{A})~Left: predicted PerM-FtsB complex in which an $\alpha$~helix, \ftsbH{}, interacts with the periplasmic face of PerM. Transmembrane helix \ftsbTM{} and the region interacting with FtsL and FtsQ, \ftsbLQ{}, are indicated. Residues with $pLDDT < 50$ colored black. Right: final conformer following \qty{1.1}{\ns} MD; PerM-\ftsbH{} interact persists, \ftsbLQ{} collapses, and \ftsbTM{} moves away from PerM. (\textbf{B})~Prediction for the \mtb{} divisome with inclusion of PerM. Terminal regions with $pLDDT < 50$ are omitted except for the FtsB C-terminus. All complexes in \textbf{A} and \textbf{B} are aligned by PerM C$\alpha$ atoms; the red box is placed at the same position relative to PerM for comparison of \ftsbH{} movement. (\textbf{C})~Final MD conformers for PerM-FtsB and FtsB alone are aligned by PerM C$\alpha$ atoms and compared to a PerM prediction  (AlphaFold DB P9WKN3-F1-model{\_}v4). (\textbf{D})~Phylogenetic tree for actinomycete species with predicted PerM-FtsB interactions. Branch length scaled by divergence in amino acid identity in pairwise sequence alignments. (\textbf{E})~Top: Diagram of \mtb{} FtsB defining the \ftsbTM{}, \ftsbLQ{}, and \ftsbH{} regions. Bottom: Multiple sequence alignment of a region near the C-terminus of FtsB for actinomycete species illustrates conservation of residues in \ftsbH{} and diversity in FtsB C-termini.}\label{fig1_1}
+\caption{\textbf{A conserved, predicted \mtb{} PerM-FtsB interaction stabilizes PerM in MD.} (\textbf{A})~Left: predicted PerM-FtsB complex in which an $\alpha$~helix, \ftsbH{}, interacts with the periplasmic face of PerM. Transmembrane helix \ftsbTM{} and the region interacting with FtsL and FtsQ, \ftsbLQ{}, are indicated. Residues with $pLDDT < 50$ colored black. Right: final conformer following \qty{1.1}{\us} MD; PerM-\ftsbH{} interact persists, \ftsbLQ{} collapses, and \ftsbTM{} moves away from PerM. (\textbf{B})~Prediction for the \mtb{} divisome with inclusion of PerM. Terminal regions with $pLDDT < 50$ are omitted except for the FtsB C-terminus. All complexes in \textbf{A} and \textbf{B} are aligned by PerM C$\alpha$ atoms; the red box is placed at the same position relative to PerM for comparison of \ftsbH{} movement. (\textbf{C})~Final MD conformers for PerM-FtsB and for PerM alone are aligned by PerM C$\alpha$ atoms and compared to a PerM prediction  (AlphaFold DB P9WKN3-F1-model{\_}v4). (\textbf{D})~Phylogenetic tree for actinomycete species with predicted PerM-FtsB interactions. Branch length scaled by divergence in amino acid identity in pairwise sequence alignments of PerM. (\textbf{E})~Top: Diagram of \mtb{} FtsB defining the \ftsbTM{}, \ftsbLQ{}, and \ftsbH{} regions. Bottom: Multiple sequence alignment of a region near the C-terminus of FtsB for actinomycete species illustrates conservation of residues in \ftsbH{} and diversity in FtsB C-termini.}\label{fig1_1}
 \end{figure*}
 
 \loremipsum{}
@@ -135,7 +136,7 @@ Instead both the W186 binding pocket and hydrogen bonding with conserved FtsB re
 \begin{figure*}[h]
 \centering
 \includegraphics[width=1.0\textwidth]{../figures/fig1_2.png}
-\caption{\textbf{Reproducible dynamics at the PerM-FtsB binding interface.} (\textbf{A}) The shape of the FtsB binding pocket for PerM is compared between the predicted interface structure (top) and the final conformer following 1.1~ns MD (bottom). Left: a large predicted periplasmic binding pocket in PerM evolves to tightly bind FtsB W186. Right: Following MD, FtsB W186 interacts with conserved PerM residue G228 and hydrogen bonds are formed between PerM and conserved FtsB residues. (\textbf{B}) Maturation of PerM-FtsB interactions were reproducible in MD. Solid and dashed lines show acceptor-donor distance (25-ns moving average; two MD replicates) for hydrogen bonds at the PerM-FtsB interface that are absent in the predicted structure.}\label{fig1_2}
+\caption{\textbf{Reproducible dynamics at the PerM-FtsB binding interface.} (\textbf{A}) The shape of the FtsB binding pocket for PerM is compared between the predicted interface structure (top) and the final conformer following \qty{1.1}{us} MD (bottom). Left: a large predicted periplasmic binding pocket in PerM (top left) evolves to tightly bind FtsB W186 (bottom left). Right: Following MD (bottom right), FtsB W186 interacts with conserved PerM residue G228 and hydrogen bonds are formed between PerM and conserved FtsB residues. The same region is shown rotated by \qty{180}{\degree}. (\textbf{B}) Maturation of PerM-FtsB interactions were reproducible in MD. Solid and dashed lines show acceptor-donor distance (25-ns moving average; two MD replicates) for hydrogen bonds at the PerM-FtsB interface that are absent in the predicted structure.}\label{fig1_2}
 \end{figure*}
 
 \subsection{FtsB and PerM expression}
@@ -159,7 +160,7 @@ Check out Fig. \ref{fig2}!
 
 \subsection{PerM stabilization in \ec{} membrane by FtsB depends on \ftsbH{}}
 
-In order to confirm that FtsB increases membrane-localized PerM expression and, if so, to investigate the role of \ftsbH{} in this phenomenon, we co-expressed mNeonGreen- and mTurquoise2-labeled constructs and analyzed fluorescence in \ec{} microcolonies (Fig.~\ref{fig3}). In these experiments, expression of \permN{}-mNG was induced with \qty{100}{\uM} IPTG. Membrane-localization controls mNeonGreen (cytoplasmic) and Pf3-mNG (membrane) were induced with \qty{60}{\uM} and \qty{240}{\uM} IPTG, respectively, to match typical \permN{}-mNG expression levels. Expression of mTurquoise2-labeled FtsB constructs was induced with \qty{10}{\nM} ATc in all conditions except for one condition with no induction (indicated with down arrows in Fig.~\ref{fig3}). Brightfield images of \ec{} cells were segmented and protein concentration was estimated to be proportional to total integrated fluorescence after subtracting background and normalizing by cell size.
+In order to confirm that FtsB increases membrane-localized PerM expression and, if so, to investigate the role of \ftsbH{} in this phenomenon, we co-expressed mNeonGreen- and mTurquoise2-labeled constructs and analyzed fluorescence in \ec{} microcolonies (Fig.~\ref{fig3}). In these experiments, expression of \permN{}-mNG was induced with \qty{100}{\uM} IPTG. Localization controls mNeonGreen (strong cytoplasmic localization) and Pf3-mNG (strong membrane localization) were induced with \qty{60}{\uM} and \qty{240}{\uM} IPTG, respectively, to match typical \permN{}-mNG expression levels. Expression of mTurquoise2-labeled FtsB constructs was induced with \qty{10}{\nM} ATc in all conditions except for one condition with no induction (indicated with down arrows in Fig.~\ref{fig3}). Brightfield images of \ec{} cells were segmented and protein concentration was estimated to be proportional to total integrated fluorescence after subtracting background and normalizing by cell size.
 
 \begin{figure*}[h]
 \centering
@@ -179,6 +180,10 @@ In the reference condition (\permN{}-mNG, mTq2-\ftsbdLQ, \qty{10}{nM} ATc), corr
 
 Our correlation analysis strongly suggested that FtsB interaction with PerM via \ftsbH{} is key for expression of \permN{} in the membrane. Since we observed this for transgenic expression in \ec{}, it is unlikely that PerM-FtsB interaction is mediated by host proteins. However, transient PerM-FtsB interaction could be sufficient for PerM stability without a large fraction of molecules being bound at any time. If PerM is a significant component in the core \mtb{} divisome as suggested by depletion phenotypes and midcell localization \citep{goodsmithDisruptionTuberculosisMembrane2015, wangPersistentMycobacteriumTuberculosis2019}, we hypothesized that this implied long-lived FtsB-PerM interactions that could be detected by single-molecule tracking of FtsB diffusion. FtsB has a single transmembrane helix and PerM is predicted to have 8 (Fig.~\ref{fig1_1}A), suggesting an expected reduction in the FtsB diffusion coefficient from approximately 0.7 to \qty{0.3}{\square\um\per\s} upon PerM binding \citep{lucenaMicrodomainFormationGeneral2018}.
 
+Describe methods concisely in way that makes sense. Why SASPT?
+Robust against variable trajectory length and defocalization effects.
+Describe very clearly limitations of apparent diffusion coefficient.
+
 \loremipsum{}
 
 Check out Fig. \ref{fig4}!
@@ -191,19 +196,26 @@ Check out Fig. \ref{fig4}!
 
 \subsection{Complex MD (fig 5)}
 
+Tilt angles.
+19.2 degrees from AF2 prediction compared to 21 degrees observed for Pa cryo-EM structure and ~20 degrees for various E. coli divisome molecular dynamics simulations.
+4.8 degrees is reversion towards the AF2 prediction with the loss of FtsB-PerM interaction.
+
 \loremipsum{}
 
-% Figure 5 goes here
-% \begin{figure*}[h]
-% \centering
-% \includegraphics[width=1.0\textwidth]{../figures/fig4.png}
-% \caption{PerM-FtsB binding detected by FtsB single-molecule tracking. (\textbf{A}) (\textbf{B}) (\textbf{C}) (\textbf{D})
-%     FtsB Tracking caption here.}\label{fig4}
-% \end{figure*}
+\begin{figure*}[h]
+\centering
+\includegraphics[width=1.0\textwidth]{../figures/fig5.png}
+\caption{PerM-FtsB interaction constrains the \mtb{} divisome in MD simulations. (\textbf{A}) PerM simulated in context of \mtb{} divisome. Final conformer following \qty{1.5}{us} total MD. Note C-terminal truncation of FtsB relative to the predicted structure in \ref{fig1_1} that is uncertain in this region. (\textbf{B}) Difference in tilt of PbpB transpeptidase domain relative to its conformation in structure prediction. (\textbf{C}) Dynamics of tilt angle. (\textbf{D}) Left: residues in PerM near FtsB-binding interfaces suggest potential regulatory signals. Right: a lipid often fills a channel in PerM reaching FtsB.}\label{fig5}
+\end{figure*}
 
 Note region initially predicted and used for MD.
 
+Fig.~\ref{fig5}D shows the final conformer of the PerM-FtsB simulation to highlight interactions of interest.
+A lipid tail occupies a channel in PerM and heavy-atom contacts with a POPG within \qty{5}{\angstrom}.
+
 \section{Discussion}
+
+Apparent diffusion coefficient. Future work will collect 3D data to investigate displacement along the surface of the membrane at any position.
 
 \loremipsum{}
 
@@ -278,6 +290,8 @@ Sample size.
 
 ImageJ/Fiji reference for image preparation.
 
+Test test test
+
 \loremipsum{}
 
 \subsubsection{Inference of diffusion coefficient distributions}
@@ -285,6 +299,8 @@ ImageJ/Fiji reference for image preparation.
 SASPT details.
 Brief discussion of apparent 2D diffusion and challenge of identifying perfect method.
 Details needed to define reported values.
+Robustness checks with preliminary data: (1) MSD results similar to jump-distribution fitting similar to SASPT, (2) imaging near membrane/coverslip interface vs focused at midplane of cell gave apparent diffusion coefficients almost twice as high as expected.
+Robustness checks for fitting: (1) Number of iterations for inference. (2) Fixing localization error to \qty{25}{nm}, (3) excluding trajectories longer than 10 frames that can be long-lived artifacts, (4) excluding trajectories with only 2 frames that can be mistakenly linking different molecules or false positive detections.
 
 \loremipsum{} 
 
