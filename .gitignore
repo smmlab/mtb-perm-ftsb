@@ -1,4 +1,5 @@
 *.DS_Store
 /preliminary
-/data
+/trajectories
+/microscope-data
 *.pse

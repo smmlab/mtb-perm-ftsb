@@ -1,0 +1,20 @@
+,filepath,condition
+0,../data/single-molecule-tracking/231004_PerMn1_FtsBΔLQ_mEos3.2.csv,PerMn1 FtsBΔLQ mEos3.2
+1,../data/single-molecule-tracking/231004_PerMn1_FtsBΔLQΔH_mEos3.2.csv,PerMn1 FtsBΔLQΔH mEos3.2
+2,../data/single-molecule-tracking/231004_Pf3_FtsBΔLQ_mEos3.2.csv,Pf3 FtsBΔLQ mEos3.2
+3,../data/single-molecule-tracking/231004_Pf3_FtsBΔLQΔH_mEos3.2.csv,Pf3 FtsBΔLQΔH mEos3.2
+4,../data/single-molecule-tracking/231004_PerMn1_uninduced_FtsBΔLQ_mEos3.2.csv,PerMn1 uninduced FtsBΔLQ mEos3.2
+5,../data/single-molecule-tracking/231011_PerMn1_uninduced_FtsBΔLQ_mEos3.2.csv,PerMn1 uninduced FtsBΔLQ mEos3.2
+6,../data/single-molecule-tracking/231011_PerMn1_FtsBΔLQ_mEos3.2.csv,PerMn1 FtsBΔLQ mEos3.2
+7,../data/single-molecule-tracking/231011_PerMn1_FtsBΔLQΔH_mEos3.2.csv,PerMn1 FtsBΔLQΔH mEos3.2
+8,../data/single-molecule-tracking/231011_Pf3_FtsBΔLQ_mEos3.2.csv,Pf3 FtsBΔLQ mEos3.2
+9,../data/single-molecule-tracking/231011_Pf3_FtsBΔLQΔH_mEos3.2.csv,Pf3 FtsBΔLQΔH mEos3.2
+10,../data/single-molecule-tracking/231012_PerMn1_uninduced_FtsBΔLQ_mEos3.2.csv,PerMn1 uninduced FtsBΔLQ mEos3.2
+11,../data/single-molecule-tracking/231012_PerMn1_FtsBΔLQ_mEos3.2.csv,PerMn1 FtsBΔLQ mEos3.2
+12,../data/single-molecule-tracking/231012_PerMn1_FtsBΔLQ_mNeonGreen.csv,PerMn1 FtsBΔLQ mNeonGreen
+13,../data/single-molecule-tracking/231012_PerMn1_FtsBΔLQΔH_mEos3.2.csv,PerMn1 FtsBΔLQΔH mEos3.2
+14,../data/single-molecule-tracking/231012_PerMn1_FtsBΔLQΔH_mNeonGreen.csv,PerMn1 FtsBΔLQΔH mNeonGreen
+15,../data/single-molecule-tracking/231012_Pf3_FtsBΔLQ_mEos3.2.csv,Pf3 FtsBΔLQ mEos3.2
+16,../data/single-molecule-tracking/231012_Pf3_FtsBΔLQ_mNeonGreen.csv,Pf3 FtsBΔLQ mNeonGreen
+17,../data/single-molecule-tracking/231012_Pf3_FtsBΔLQΔH_mEos3.2.csv,Pf3 FtsBΔLQΔH mEos3.2
+18,../data/single-molecule-tracking/231012_Pf3_FtsBΔLQΔH_mNeonGreen.csv,Pf3 FtsBΔLQΔH mNeonGreen

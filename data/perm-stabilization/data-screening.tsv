@@ -1,0 +1,33 @@
+Date	Condition	Rejected	Reason	Notes
+231005	1_pJRF004n1_pJRF007_100_uM_0_nM	12	Bright cell CFP	
+231005	3_pJRF004n1_pJRF007_100_uM_10_nM	5	Poor segmentation	
+231005	3_pJRF004n1_pJRF007_100_uM_10_nM	12	Bright cell CFP	
+231005	4_pJRF004n1_pJRF007dHelix_100_uM_10_nM	1	Poor segmentation	
+231005	4_pJRF004n1_pJRF007dHelix_100_uM_10_nM	15	Bright cell CFP	
+231005	5_pJRF010_pJRF007_240_uM_10_nM	1	Poor segmentation	
+231005	5_pJRF010_pJRF007_240_uM_10_nM	11	Poor segmentation	
+231005	5_pJRF010_pJRF007_240_uM_10_nM	12	Poor segmentation	
+231005	5_pJRF010_pJRF007_240_uM_10_nM	13	Poor segmentation	
+231005	5_pJRF010_pJRF007_240_uM_10_nM	20	Bright cell CFP	
+231005	6_pZH813_pJRF007_60_uM_10_nM	4	Poor segmentation	
+231005	6_pZH813_pJRF007_60_uM_10_nM	11	Poor segmentation	
+231005	6_pZH813_pJRF007_60_uM_10_nM	15	Poor segmentation	
+231005	6_pZH813_pJRF007_60_uM_10_nM	16	Poor segmentation	
+231005	6_pZH813_pJRF007_60_uM_10_nM	18	Poor segmentation	
+231005	6_pZH813_pJRF007_60_uM_10_nM	19	Poor segmentation	
+231017	1_pJRF004n1_pJRF002_10_nM_100_uM	9	Loss of plasmid CFP	Figure 2 example image
+231017	1_pJRF004n1_pJRF002_10_nM_100_uM	20	Bright cell CFP	
+231017	3_pJRF004n1_pJRF007dHelix_10_nM_100_uM	3	Bright cell YFP	
+231017	3_pJRF004n1_pJRF007dHelix_10_nM_100_uM	4	Bright cell YFP	
+231017	3_pJRF004n1_pJRF007dHelix_10_nM_100_uM	5	Bright cell YFP	
+231017	4_pJRF010_pJRF007_10_nM_240_uM	19	Poor segmentation	
+231017	6_pJRF004n1_pJRF007_0_nM_100_uM	8	Bright cell YFP	
+231017	6_pJRF004n1_pJRF007_0_nM_100_uM	20	Bright cell CFP	
+231018	1_pJRF004n1_pJRF002_10_nM_100_uM	6	Bad alignment YFP	
+231018	1_pJRF004n1_pJRF002_10_nM_100_uM	16	Bright cell CFP	
+231018	4_pJRF010_pJRF007_10_nM_240_uM	18	Poor segmentation	
+231018	5_pZH813_pJRF007_10_nM_60_uM	5	Poor segmentation	
+231018	5_pZH813_pJRF007_10_nM_60_uM	6	Poor segmentation	
+231018	5_pZH813_pJRF007_10_nM_60_uM	16	Poor segmentation	
+231018	5_pZH813_pJRF007_10_nM_60_uM	20	Poor segmentation	
+231018	6_pJRF004n1_pJRF007_0_nM_100_uM	13	Bright cell CFP	
