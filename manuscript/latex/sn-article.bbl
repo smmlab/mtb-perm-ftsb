@@ -1,4 +1,4 @@
-\begin{thebibliography}{22}
+\begin{thebibliography}{26}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{{#1}}
 \providecommand{\urlprefix}{URL }
@@ -17,6 +17,9 @@ Baek M, DiMaio F, Anishchenko I, et~al (2021) Accurate prediction of protein str
 
 \bibitem[{Britton et~al(2023)Britton, Yovanno, Costa, McCausland, Lau, Xiao, and Hensel}]{brittonConformationalChangesEssential2023}
 Britton BM, Yovanno RA, Costa SF, et~al (2023) Conformational changes in the essential {{E}}. coli septal cell wall synthesis complex suggest an activation mechanism. Nature Communications 14(1):4585. \doi{10.1038/s41467-023-39921-4}
+
+\bibitem[{Bryant et~al(2022)Bryant, Pozzati, and Elofsson}]{bryantImprovedPredictionProteinprotein2022}
+Bryant P, Pozzati G, Elofsson A (2022) Improved prediction of protein-protein interactions using {{AlphaFold2}}. Nature Communications 13(1):1265. \doi{10.1038/s41467-022-28865-w}
 
 \bibitem[{Craven et~al(2022)Craven, Condon, and Senes}]{cravenModelInteractionsFtsQLB2022}
 Craven SJ, Condon SGF, Senes A (2022) A model of the interactions between the {{FtsQLB}} and the {{FtsWI}} peptidoglycan synthase complex in bacterial cell division. \doi{10.1101/2022.10.30.514410}
@@ -42,8 +45,14 @@ Houben RMGJ, Dodd PJ (2016) The {{Global Burden}} of {{Latent Tuberculosis Infec
 \bibitem[{K{\"a}shammer et~al(2023)K{\"a}shammer, {van den Ent}, Jeffery, Jean, Hale, and L{\"o}we}]{kashammerCryoEMStructureBacterial2023}
 K{\"a}shammer L, {van den Ent} F, Jeffery M, et~al (2023) Cryo-{{EM}} structure of the bacterial divisome core complex and antibiotic target {{FtsWIQBL}}. Nature Microbiology pp 1--11. \doi{10.1038/s41564-023-01368-0}
 
+\bibitem[{Kiefer et~al(1997)Kiefer, Hu, Dalbey, and Kuhn}]{kieferNegativelyChargedAmino1997}
+Kiefer D, Hu X, Dalbey R, et~al (1997) Negatively charged amino acid residues play an active role in orienting the {{Sec-independent Pf3}} coat protein in the {{Escherichia}} coli inner membrane. EMBO J 16(9):2197--204. \doi{10/ftxhzv}
+
 \bibitem[{Korepanova et~al(2005)Korepanova, Gao, Hua, Qin, Nakamoto, and Cross}]{korepanovaCloningExpressionMultiple2005}
 Korepanova A, Gao FP, Hua Y, et~al (2005) Cloning and expression of multiple integral membrane proteins from {{Mycobacterium}} tuberculosis in {{Escherichia}} coli. Protein Science : A Publication of the Protein Society 14(1):148--158. \doi{2023101017072700228}
+
+\bibitem[{Lee et~al(2006)Lee, {Tullman-Ercek}, and Georgiou}]{leeBacterialTwinArginineTranslocation2006}
+Lee PA, {Tullman-Ercek} D, Georgiou G (2006) The {{Bacterial Twin-Arginine Translocation Pathway}}. Annual review of microbiology 60:373--395. \doi{10.1146/annurev.micro.60.080805.142212}
 
 \bibitem[{Li et~al(2021)Li, Chan, Wang, Jou, Yu, Putri, Lee, and Lin}]{liAcquiredResistanceIsoniazid2021}
 Li TL, Chan TH, Wang CH, et~al (2021) Acquired {{Resistance}} to {{Isoniazid During Isoniazid Monotherapy}} in a {{Subject}} with {{Latent Infection Following Household Rifampicin-Resistant Tuberculosis Contact}}: {{A Case Report}}. Infection and Drug Resistance 14:1505--1509. \doi{10.2147/IDR.S304799}
@@ -62,6 +71,9 @@ Paulussen FM, Schouten GK, Moertl C, et~al (2022) Covalent {{Proteomimetic Inhib
 
 \bibitem[{Vandal et~al(2008)Vandal, Pierini, Schnappinger, Nathan, and Ehrt}]{vandalMembraneProteinPreserves2008}
 Vandal OH, Pierini LM, Schnappinger D, et~al (2008) A membrane protein preserves intrabacterial {{pH}} in intraphagosomal {{Mycobacterium}} tuberculosis. Nature medicine 14(8):849. \doi{10.1038/nmXXXX}
+
+\bibitem[{Varadi et~al(2022)Varadi, Anyango, Deshpande, Nair, Natassia, Yordanova, Yuan, Stroe, Wood, Laydon, {\v Z}{\'i}dek, Green, Tunyasuvunakool, Petersen, Jumper, Clancy, Green, Vora, Lutfi, Figurnov, Cowie, Hobbs, Kohli, Kleywegt, Birney, Hassabis, and Velankar}]{varadiAlphaFoldProteinStructure2022}
+Varadi M, Anyango S, Deshpande M, et~al (2022) {{AlphaFold Protein Structure Database}}: Massively expanding the structural coverage of protein-sequence space with high-accuracy models. Nucleic Acids Research 50(D1):D439--D444. \doi{10.1093/nar/gkab1061}
 
 \bibitem[{Wang et~al(2019)Wang, Kreutzfeldt, Botella, Vaubourgeix, Schnappinger, and Ehrt}]{wangPersistentMycobacteriumTuberculosis2019}
 Wang R, Kreutzfeldt K, Botella H, et~al (2019) Persistent {{Mycobacterium}} tuberculosis infection in mice requires {{PerM}} for successful cell division. eLife 8:e49570. \doi{10.7554/eLife.49570}

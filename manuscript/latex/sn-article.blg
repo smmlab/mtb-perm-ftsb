@@ -5,45 +5,45 @@ The style file: sn-basic.bst
 Database file #1: perm-ftsb.bib
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing institution in whoLatentTuberculosisInfection2018
-You've used 22 entries,
+You've used 26 entries,
             3545 wiz_defined-function locations,
-            903 strings with 15385 characters,
-and the built_in function-call counts, 22401 in all, are:
-= -- 2040
-> -- 1379
+            937 strings with 17454 characters,
+and the built_in function-call counts, 26780 in all, are:
+= -- 2440
+> -- 1661
 < -- 5
-+ -- 514
-- -- 427
-* -- 2065
-:= -- 3339
-add.period$ -- 40
-call.type$ -- 22
-change.case$ -- 286
-chr.to.int$ -- 22
-cite$ -- 23
-duplicate$ -- 1404
-empty$ -- 1499
-format.name$ -- 497
-if$ -- 4588
++ -- 618
+- -- 515
+* -- 2475
+:= -- 3987
+add.period$ -- 48
+call.type$ -- 26
+change.case$ -- 343
+chr.to.int$ -- 26
+cite$ -- 27
+duplicate$ -- 1664
+empty$ -- 1787
+format.name$ -- 597
+if$ -- 5487
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 161
-newline$ -- 75
-num.names$ -- 88
-pop$ -- 627
+missing$ -- 193
+newline$ -- 87
+num.names$ -- 104
+pop$ -- 754
 preamble$ -- 1
-purify$ -- 263
+purify$ -- 316
 quote$ -- 0
-skip$ -- 534
+skip$ -- 633
 stack$ -- 0
-substring$ -- 1502
-swap$ -- 426
+substring$ -- 1796
+swap$ -- 510
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 198
+type$ -- 234
 warning$ -- 1
-while$ -- 108
+while$ -- 130
 width$ -- 0
-write$ -- 264
+write$ -- 312
 (There was 1 warning)

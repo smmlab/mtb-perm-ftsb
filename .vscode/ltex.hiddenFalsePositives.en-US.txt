@@ -1,0 +1,31 @@
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QUsing transgenic co-expression in , we studied the PerM-FtsB interaction in isolation from other proteins, engineering PerM to enhance expression in the membrane.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q, cell division, single-molecule microscopy, molecular dynamics\\E$"}
+{"rule":"OUTSIDE_OF","sentence":"^\\QPerM lacks known orthologs outside of Actinomycetota \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q, so PerM interactions could potentially be targets of specific therapy.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QHowever, no experimental structural data have been published on the PerM-FtsB interaction or on PerM alone to guide experimental design.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QSecond, we showed that FtsB instability (when expressed in ) depends on a region predicted to bind FtsL and FtsQ, and that PerM expression in can be enhanced by strategically modifying its N-terminal signal sequence.\\E$"}
+{"rule":"DOUBLE_PUNCTUATION","sentence":"^\\Q(A) Left: predicted PerM-FtsB complex in which an \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q helix, , interacts with the periplasmic face of PerM.\\E$"}
+{"rule":"DOUBLE_PUNCTUATION","sentence":"^\\QTransmembrane helix and the region interacting with FtsL and FtsQ, , are indicated.\\E$"}
+{"rule":"COPYRIGHT","sentence":"^\\Q(C) Final MD conformers for PerM-FtsB and for PerM alone are aligned by PerM C\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q atoms and compared to a PerM prediction (AlphaFold DB P9WKN3-F1-modelv4).\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q(C) Final MD conformers for PerM-FtsB and for PerM alone are aligned by PerM C\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q atoms and compared to a PerM prediction (AlphaFold DB P9WKN3-F1-modelv4).\\E$"}
+{"rule":"THE_PUNCT","sentence":"^\\Q(E) Top: Diagram of FtsB defining the , , and regions.\\E$"}
+{"rule":"THE_PUNCT","sentence":"^\\Q(E) Top: Diagram of FtsB defining the , , and regions.\\E$"}
+{"rule":"DOUBLE_PUNCTUATION","sentence":"^\\Q(E) Top: Diagram of FtsB defining the , , and regions.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QThe same region is shown rotated by 180 .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q(A) Expression and membrane localization of FtsB and variants with deletions of or with deletion of both and .\\E$"}
+{"rule":"COPYRIGHT","sentence":"^\\Q(C) Top: residue frequency for positions preceding the first predicted transmembrane helix, inclusive of residues found at frequencies above 5 .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q(C) Top: residue frequency for positions preceding the first predicted transmembrane helix, inclusive of residues found at frequencies above 5 .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QBottom: relative frequencies in and .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QScale bars 5 .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QPerM stabilization in .\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmembrane by FtsB depends on .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Qmembrane by FtsB depends on .\\E$"}
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\QDashed red line indicates the mean value for the reference condition (-mNG, mTq2-, 100 uM IPTG, 10 nM ATc.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QScale bar 5 .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QRelative to the reference condition ( and , 10 ATc), there was an 89 (\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q) decrease in mTq2- expression in the absence of induction, with no significant differences observed for other conditions.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\Q\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\QA) suggests that stabilizes FtsB when expressed in , as was observed in \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QIn contrast, there was a significant reduction in -mNG expression of 13.3 (\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q) in the absence of induction of mTq2- expression, and a reduction of 23.5 (\\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q) when was replaced with .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QThis suggested that FtsB increases PerM stability in , and that this depends on the presence of .\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QWhile was not absolutely essential for membrane localization of , this was also observed in the absence of any FtsB expression (Fig.\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QSince we observed this for transgenic expression in , it is unlikely that PerM-FtsB interaction is mediated by host proteins.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q(B) Difference in tilt of PbpB transpeptidase domain relative to its conformation in structure prediction.\\E$"}
+{"rule":"COPYRIGHT","sentence":"^\\Q(C) Dynamics of tilt angle.\\E$"}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.6)  8 MAR 2024 19:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.6)  10 MAR 2024 01:38
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -518,7 +518,7 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \backup@length=\skip73
 \ar@cellbox=\box85
 ))
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 31.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 57.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count337
@@ -526,24 +526,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (./sn-article.aux)
 \openout1 = `sn-article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 57.
+LaTeX Font Info:    ... okay on input line 57.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -599,7 +599,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 57.
  (./sn-article.out) (./sn-article.out)
 \@outlinefile=\write3
 \openout3 = `sn-article.out'.
@@ -608,22 +608,22 @@ Package hyperref Info: Link coloring ON on input line 31.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 31.
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 78.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 78.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 57.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 79.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 79.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 78.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 79.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 78.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 79.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 78.
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 78.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 79.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 79.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -636,56 +636,41 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [3]
-<../figures/fig1_1.png, id=206, 512.1534pt x 284.5029pt>
+<../figures/fig1_1.png, id=221, 512.1534pt x 284.5029pt>
 File: ../figures/fig1_1.png Graphic file (type png)
 <use ../figures/fig1_1.png>
-Package pdftex.def Info: ../figures/fig1_1.png  used on input line 112.
+Package pdftex.def Info: ../figures/fig1_1.png  used on input line 108.
 (pdftex.def)             Requested size: 372.0pt x 206.65652pt.
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-<../figures/fig1_2.png, id=213, 512.1534pt x 185.0112pt>
-File: ../figures/fig1_2.png Graphic file (type png)
-<use ../figures/fig1_2.png>
-Package pdftex.def Info: ../figures/fig1_2.png  used on input line 138.
-(pdftex.def)             Requested size: 372.0pt x 134.38799pt.
-
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [5
+ [4
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.150 
+l.122 
       {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../figures/fig1_1.png>]
-<../figures/fig2.png, id=231, 253.1859pt x 264.5082pt>
-File: ../figures/fig2.png Graphic file (type png)
-<use ../figures/fig2.png>
-Package pdftex.def Info: ../figures/fig2.png  used on input line 157.
-(pdftex.def)             Requested size: 186.0pt x 194.3244pt.
+<../figures/fig1_2.png, id=242, 512.1534pt x 185.0112pt>
+File: ../figures/fig1_2.png Graphic file (type png)
+<use ../figures/fig1_2.png>
+Package pdftex.def Info: ../figures/fig1_2.png  used on input line 141.
+(pdftex.def)             Requested size: 372.0pt x 134.38799pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
+LaTeX Font Info:    Calculating math sizes for size <7.0262> on input line 152.
+<../figures/fig2.png, id=246, 253.1859pt x 264.5082pt>
+File: ../figures/fig2.png Graphic file (type png)
+<use ../figures/fig2.png>
+Package pdftex.def Info: ../figures/fig2.png  used on input line 158.
+(pdftex.def)             Requested size: 186.0pt x 194.3244pt.
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\mathsurround' on input line 161.
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
+ [5]
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\z@' on input line 161.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `superscript' on input line 161.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -694,18 +679,28 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.164 
-       <../figures/fig1_2.png>]
-<../figures/fig3.png, id=243, 512.1534pt x 256.5585pt>
+l.181 \subsection
+                 {PerM stabilization in \ec{} membrane by FtsB depends on \f... <../figures/fig1_2.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\mathsurround' on input line 181.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\z@' on input line 181.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `superscript' on input line 181.
+
+<../figures/fig3.png, id=272, 512.1534pt x 256.5585pt>
 File: ../figures/fig3.png Graphic file (type png)
 <use ../figures/fig3.png>
-Package pdftex.def Info: ../figures/fig3.png  used on input line 167.
+Package pdftex.def Info: ../figures/fig3.png  used on input line 187.
 (pdftex.def)             Requested size: 372.0pt x 186.35835pt.
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Calculating math sizes for size <7.0262> on input line 171.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -713,7 +708,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.174 
+l.198 
        <../figures/fig2.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -721,26 +716,16 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.177 I
-       n the reference condition (\permN{}-mNG, mTq2-\ftsbdLQ, \qty{10}{nM} ... <../figures/fig3.png>]
-<../figures/fig4.png, id=279, 512.1534pt x 281.6121pt>
-File: ../figures/fig4.png Graphic file (type png)
-<use ../figures/fig4.png>
-Package pdftex.def Info: ../figures/fig4.png  used on input line 193.
-(pdftex.def)             Requested size: 372.0pt x 204.55673pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
+l.202 
+       <../figures/fig3.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [9]
-<../figures/fig5.png, id=287, 512.1534pt x 298.716pt>
-File: ../figures/fig5.png Graphic file (type png)
-<use ../figures/fig5.png>
-Package pdftex.def Info: ../figures/fig5.png  used on input line 207.
-(pdftex.def)             Requested size: 372.0pt x 216.9806pt.
+<../figures/fig4.png, id=313, 512.1534pt x 281.6121pt>
+File: ../figures/fig4.png Graphic file (type png)
+<use ../figures/fig4.png>
+Package pdftex.def Info: ../figures/fig4.png  used on input line 219.
+(pdftex.def)             Requested size: 372.0pt x 204.55673pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -748,18 +733,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.209 \end{figure*}
-                    <../figures/fig4.png>]
-
-Package siunitx Warning: Unit macro \angstrom has been deprecated in this
-(siunitx)                release.
-(siunitx)                
-(siunitx)                The BIPM have removed this unit from the SI Brochure.
-(siunitx)                You should define it yourself using \DeclareSIUnit in
-(siunitx)                your source. The current definition is
-(siunitx)                
-(siunitx)                \DeclareSIUnit\angstrom{\text {Å}}
-
+l.236 
+       <../figures/fig4.png>]
+<../figures/fig5.png, id=321, 512.1534pt x 298.716pt>
+File: ../figures/fig5.png Graphic file (type png)
+<use ../figures/fig5.png>
+Package pdftex.def Info: ../figures/fig5.png  used on input line 239.
+(pdftex.def)             Requested size: 372.0pt x 216.9806pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -767,7 +747,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.221 
+l.265 
        <../figures/fig5.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -783,11 +763,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [15]
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 325.
+(hyperref)                than one, level fixed on input line 375.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 328.
+(hyperref)                than one, level fixed on input line 378.
 
 (./sn-article.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -796,56 +776,56 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17]
-LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 55.
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 64.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.03749> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 64.
 
-Underfull \hbox (badness 1762) in paragraph at lines 55--56
+Underfull \hbox (badness 1762) in paragraph at lines 64--65
 []\OT1/cmr/m/n/10 Meade RK, Long JE, Jinich A, et al (2023) Genome-wide screen iden-ti-fies
  []
 
-)
-<../figures/figS1.png, id=351, 512.1534pt x 469.5141pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18])
+<../figures/figS1.png, id=404, 512.1534pt x 469.5141pt>
 File: ../figures/figS1.png Graphic file (type png)
 <use ../figures/figS1.png>
-Package pdftex.def Info: ../figures/figS1.png  used on input line 344.
+Package pdftex.def Info: ../figures/figS1.png  used on input line 394.
 (pdftex.def)             Requested size: 372.0pt x 341.04453pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.345 \caption
+l.395 \caption
               {The PerM phylogenetic tree from Fig.~\ref{fig1_1} is reproduc...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.345 ...sidues with $pLDDT<50$ are colored gray.}
+l.395 ...sidues with $pLDDT<50$ are colored gray.}
                                                   \label{figS1}
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [19 <../figures/figS1.png>] (./sn-article.aux)
 Package rerunfilecheck Info: File `sn-article.out' has not changed.
-(rerunfilecheck)             Checksum: 687B04800C795A6C01E8AB6B4EE54CE4;4471.
+(rerunfilecheck)             Checksum: C3F3238C8461414F329163905FDA3FE4;4689.
  ) 
 Here is how much of TeX's memory you used:
- 18271 strings out of 476025
- 339875 string characters out of 5790018
- 1863388 words of memory out of 5000000
- 38366 multiletter control sequences out of 15000+600000
- 542688 words of font info for 148 fonts, out of 8000000 for 9000
+ 18290 strings out of 476025
+ 340636 string characters out of 5790018
+ 1864388 words of memory out of 5000000
+ 38381 multiletter control sequences out of 15000+600000
+ 543290 words of font info for 150 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 90i,8n,90p,2007b,1047s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,8n,90p,2009b,1076s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on sn-article.pdf (19 pages, 6654397 bytes).
+Output written on sn-article.pdf (19 pages, 6664591 bytes).
 PDF statistics:
- 496 PDF objects out of 1000 (max. 8388607)
- 404 compressed objects within 5 object streams
- 75 named destinations out of 1000 (max. 500000)
+ 541 PDF objects out of 1000 (max. 8388607)
+ 449 compressed objects within 5 object streams
+ 79 named destinations out of 1000 (max. 500000)
  236 words of extra memory for PDF output out of 10000 (max. 10000000)
 
