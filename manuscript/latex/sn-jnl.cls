@@ -119,7 +119,7 @@
 
 %%\ExecuteOptions{twosidecrop,crop,centre,info,croppage}
 \ProcessOptions
-\LoadClass[twoside,fleqn]{article}
+\LoadClass[oneside,fleqn]{article}
 
 \gdef\refereedefns{%
 \if@referee%
@@ -263,10 +263,11 @@
     top={26mm},
     headheight={5.5pt},
     headsep={5.6mm},
-    text={31pc,194.25mm},
+    % text={31pc,194.25mm},
+    text={40pc,240mm},
     marginparsep=5mm,
     marginparwidth=12mm,
-    bindingoffset=6mm,
+    % bindingoffset=6mm,
     footskip=10mm]{geometry}
 %
     \setlength\maxdepth{0pt}%
@@ -1774,6 +1775,7 @@ $\kern\wd\@ne\kern -\@tempdima\left\@firstoftwo#1%
 \def\linenoon{%%\definecolor{blue}{gray}{0}% 
 \def\tiny{\normalsize\color{black}}%
 \setvruler[12bp][1][1][3][1][1.18\textwidth][26pt][-7pt][0.99\textheight]% for even pages: left side; for odd pages: right side;
+%%\setvruler[12bp][1][1][3][1][26pt][26pt][-5pt][0.99\textheight]% for even pages: left side; for odd pages: right side;
 %%\linkbluecolor
 }%
 \linenoon%

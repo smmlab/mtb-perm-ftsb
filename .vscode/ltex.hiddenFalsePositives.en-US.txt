@@ -29,3 +29,17 @@
 {"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QSince we observed this for transgenic expression in , it is unlikely that PerM-FtsB interaction is mediated by host proteins.\\E$"}
 {"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Q(B) Difference in tilt of PbpB transpeptidase domain relative to its conformation in structure prediction.\\E$"}
 {"rule":"COPYRIGHT","sentence":"^\\Q(C) Dynamics of tilt angle.\\E$"}
+{"rule":"ENGLISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QZH and JRF thank Sara F. Costa for assistance and insight on this project.\\E$"}
+{"rule":"ID_CASING","sentence":"^\\QMauris mauris mauris, pretium vitae malesuada id, fringilla aliquet ex. In hac habitasse platea dictumst.\\E$"}
+{"rule":"ID_CASING","sentence":"^\\QVestibulum id massa interdum, posuere nibh non, consequat leo.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qstrain construction.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qplasmids utilized in this study Plasmid Selection Induction Expressed protein pJRF002 Carbenicillin 10 ATc mTq2-FtsB pJRF007 Carbenicillin 10 ATc mTq2- pJRF007dHelix Carbenicillin 10 ATc mTq2- pZH904 Carbenicillin 10 ATc mEos3.2- pLG906 Carbenicillin 10 ATc mEos3.2- pJRF001 Spectinomycin 100 IPTG mNG-PerM pJRF004 Spectinomycin 100 IPTG PerM-mNG pJRF004n1cWT Spectinomycin 100 IPTG -mNG pJRF010 Spectinomycin 240 IPTG Pf3-mNG pZH813 Spectinomycin 60 IPTG mNeonGreen\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qplasmids utilized in this study.\\E$"}
+{"rule":"DOUBLE_PUNCTUATION","sentence":"^\\QWe manually inspected the predicted PerM structure as well as sequences of integral transmembrane protein orthologs in and , hypothesizing that an engineered construct, , would exhibit higher expression.\\E$"}
+{"rule":"COPYRIGHT","sentence":"^\\Q(C) Estimated distributions of diffusion coefficients inferred from single-molecule tracking of either -mNG or Pf3-mNG with either or (single experiment).\\E$"}
+{"rule":"PLUS_MINUS","sentence":"^\\QWe observed reproducible differences in mean diffusion coefficients between (0.161 +- 0.004 ; mean \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q standard deviation) and (0.203 +- 0.006 ; mean \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q standard deviation).\\E$"}
+{"rule":"THE_SENT_END","sentence":"^\\QPerM-FtsB interaction could restrict conformational flexibility of the .\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qdivisome.\\E$"}
+{"rule":"PLUS_MINUS","sentence":"^\\QBuried pair of histidines potentially play a role in tuning cell-division activity in response divalent cation concentrations, consistent with PerM first being described for its Mg2+-dependent growth defect \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q.\\E$"}
+{"rule":"CD_NN","sentence":"^\\QSpots were detected using the Difference of Gaussian method (250 spot radius) and tracked using \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q (500 maximum linking distance).\\E$"}
+{"rule":"CD_NN","sentence":"^\\QSpots were detected using \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q (250 spot radius) and tracked using \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q (500 maximum linking distance).\\E$"}

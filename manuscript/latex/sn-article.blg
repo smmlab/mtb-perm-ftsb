@@ -1,49 +1,48 @@
 This is BibTeX, Version 0.99d (TeX Live 2023)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: sn-article.aux
-The style file: sn-basic.bst
+The style file: sn-nature.bst
 Database file #1: perm-ftsb.bib
-Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Warning--missing institution in whoLatentTuberculosisInfection2018
-You've used 26 entries,
-            3545 wiz_defined-function locations,
-            937 strings with 17454 characters,
-and the built_in function-call counts, 26780 in all, are:
-= -- 2440
-> -- 1661
-< -- 5
-+ -- 618
-- -- 515
-* -- 2475
-:= -- 3987
-add.period$ -- 48
-call.type$ -- 26
-change.case$ -- 343
-chr.to.int$ -- 26
-cite$ -- 27
-duplicate$ -- 1664
-empty$ -- 1787
-format.name$ -- 597
-if$ -- 5487
-int.to.chr$ -- 1
-int.to.str$ -- 1
-missing$ -- 193
-newline$ -- 87
-num.names$ -- 104
-pop$ -- 754
+You've used 53 entries,
+            2710 wiz_defined-function locations,
+            1495 strings with 33160 characters,
+and the built_in function-call counts, 20300 in all, are:
+= -- 1464
+> -- 508
+< -- 0
++ -- 254
+- -- 127
+* -- 2555
+:= -- 2323
+add.period$ -- 155
+call.type$ -- 53
+change.case$ -- 54
+chr.to.int$ -- 0
+cite$ -- 54
+duplicate$ -- 1779
+empty$ -- 1830
+format.name$ -- 177
+if$ -- 4020
+int.to.chr$ -- 0
+int.to.str$ -- 53
+missing$ -- 429
+newline$ -- 271
+num.names$ -- 53
+pop$ -- 256
 preamble$ -- 1
-purify$ -- 316
+purify$ -- 0
 quote$ -- 0
-skip$ -- 633
+skip$ -- 261
 stack$ -- 0
-substring$ -- 1796
-swap$ -- 510
-text.length$ -- 1
+substring$ -- 1002
+swap$ -- 1860
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 234
+type$ -- 0
 warning$ -- 1
-while$ -- 130
-width$ -- 0
-write$ -- 312
+while$ -- 126
+width$ -- 55
+write$ -- 579
 (There was 1 warning)
