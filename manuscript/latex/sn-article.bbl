@@ -144,6 +144,16 @@
 \newblock \bibinfo{title}{Robust model-based analysis of single-particle tracking experiments with {{Spot-On}}}.
 \newblock \emph{\bibinfo{journal}{eLife}} \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{e33125} (\bibinfo{year}{2018}).
 
+\bibitem{wangRv0954MemberMycobacterial2021a}
+\bibinfo{author}{Wang, R.} \& \bibinfo{author}{Ehrt, S.}
+\newblock \bibinfo{title}{Rv0954 {{Is}} a {{Member}} of the {{Mycobacterial Cell Division Complex}}}.
+\newblock \emph{\bibinfo{journal}{Front. Microbiol.}} \textbf{\bibinfo{volume}{12}} (\bibinfo{year}{2021}).
+
+\bibitem{baranowskiDreamMycobacterium2019}
+\bibinfo{author}{Baranowski, C.}, \bibinfo{author}{Rego, E.~H.} \& \bibinfo{author}{Rubin, E.~J.}
+\newblock \bibinfo{title}{The {{Dream}} of a {{Mycobacterium}}}.
+\newblock \emph{\bibinfo{journal}{Microbiology Spectrum}} \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{10.1128/microbiolspec.gpp3--0008--2018} (\bibinfo{year}{2019}).
+
 \bibitem{mirditaColabFoldMakingProtein2022}
 \bibinfo{author}{Mirdita, M.} \emph{et~al.}
 \newblock \bibinfo{title}{{{ColabFold}}: Making protein folding accessible to all}.

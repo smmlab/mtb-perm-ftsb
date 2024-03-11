@@ -4,45 +4,45 @@ The top-level auxiliary file: sn-article.aux
 The style file: sn-nature.bst
 Database file #1: perm-ftsb.bib
 Warning--missing institution in whoLatentTuberculosisInfection2018
-You've used 53 entries,
+You've used 55 entries,
             2710 wiz_defined-function locations,
-            1495 strings with 33160 characters,
-and the built_in function-call counts, 20300 in all, are:
-= -- 1464
-> -- 508
+            1510 strings with 33702 characters,
+and the built_in function-call counts, 21270 in all, are:
+= -- 1543
+> -- 528
 < -- 0
-+ -- 254
-- -- 127
-* -- 2555
-:= -- 2323
-add.period$ -- 155
-call.type$ -- 53
-change.case$ -- 54
++ -- 264
+- -- 132
+* -- 2675
+:= -- 2433
+add.period$ -- 161
+call.type$ -- 55
+change.case$ -- 56
 chr.to.int$ -- 0
-cite$ -- 54
-duplicate$ -- 1779
-empty$ -- 1830
-format.name$ -- 177
-if$ -- 4020
+cite$ -- 56
+duplicate$ -- 1844
+empty$ -- 1920
+format.name$ -- 184
+if$ -- 4220
 int.to.chr$ -- 0
-int.to.str$ -- 53
-missing$ -- 429
-newline$ -- 271
-num.names$ -- 53
-pop$ -- 256
+int.to.str$ -- 55
+missing$ -- 445
+newline$ -- 281
+num.names$ -- 55
+pop$ -- 266
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 261
+skip$ -- 270
 stack$ -- 0
-substring$ -- 1002
-swap$ -- 1860
+substring$ -- 1110
+swap$ -- 1928
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 1
-while$ -- 126
-width$ -- 55
-write$ -- 579
+while$ -- 129
+width$ -- 57
+write$ -- 601
 (There was 1 warning)

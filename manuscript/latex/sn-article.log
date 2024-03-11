@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.6)  10 MAR 2024 21:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.6)  11 MAR 2024 00:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -540,7 +540,7 @@ Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
 \TX@cols=\count337
 \TX@ftn=\toks39
 )
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 67.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 68.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count338
@@ -548,24 +548,24 @@ File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 ) (./sn-article.aux)
 \openout1 = `sn-article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 67.
-LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 68.
+LaTeX Font Info:    ... okay on input line 68.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -620,7 +620,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/local/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 67.
+Package hyperref Info: Link coloring ON on input line 68.
  (./sn-article.out) (./sn-article.out)
 \@outlinefile=\write3
 \openout3 = `sn-article.out'.
@@ -629,22 +629,22 @@ Package hyperref Info: Link coloring ON on input line 67.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 67.
-LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 86.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <12.045> on input line 87.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 86.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 87.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
-LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 86.
-LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 86.
+LaTeX Font Info:    Calculating math sizes for size <11.04124> on input line 87.
+LaTeX Font Info:    Calculating math sizes for size <10.03749> on input line 87.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -665,10 +665,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<../figures/fig1_1.png, id=145, 512.1534pt x 284.5029pt>
+<../figures/fig1_1.png, id=142, 512.1534pt x 284.5029pt>
 File: ../figures/fig1_1.png Graphic file (type png)
 <use ../figures/fig1_1.png>
-Package pdftex.def Info: ../figures/fig1_1.png  used on input line 115.
+Package pdftex.def Info: ../figures/fig1_1.png  used on input line 116.
 (pdftex.def)             Requested size: 480.0pt x 266.65569pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -696,59 +696,62 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.145 
+l.149 
       {/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <../figures/fig1_1.png>]
-<../figures/fig1_2.png, id=186, 512.1534pt x 185.0112pt>
+<../figures/fig1_2.png, id=182, 512.1534pt x 185.0112pt>
 File: ../figures/fig1_2.png Graphic file (type png)
 <use ../figures/fig1_2.png>
-Package pdftex.def Info: ../figures/fig1_2.png  used on input line 148.
+Package pdftex.def Info: ../figures/fig1_2.png  used on input line 152.
 (pdftex.def)             Requested size: 480.0pt x 173.40521pt.
-LaTeX Font Info:    Calculating math sizes for size <7.0262> on input line 159.
+LaTeX Font Info:    Calculating math sizes for size <7.0262> on input line 163.
 
-Underfull \hbox (badness 1515) in paragraph at lines 158--162
+Underfull \hbox (badness 1515) in paragraph at lines 162--166
 \OT1/cmr/m/n/10 Despite the appar-ent speci-ficity and sta-bil-ity of
  []
 
 
-Underfull \hbox (badness 3601) in paragraph at lines 158--162
+Underfull \hbox (badness 3601) in paragraph at lines 162--166
 \OT1/cmr/m/n/10 the pre-dicted PerM-FtsB inter-face in MD, we
  []
 
-<../figures/fig2.png, id=189, 253.1859pt x 264.5082pt>
+<../figures/fig2.png, id=185, 253.1859pt x 264.5082pt>
 File: ../figures/fig2.png Graphic file (type png)
 <use ../figures/fig2.png>
-Package pdftex.def Info: ../figures/fig2.png  used on input line 165.
+Package pdftex.def Info: ../figures/fig2.png  used on input line 169.
 (pdftex.def)             Requested size: 240.0pt x 250.74455pt.
 
-Overfull \hbox (7.11319pt too wide) in paragraph at lines 165--173
+Overfull \hbox (7.11319pt too wide) in paragraph at lines 169--177
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--181
+Underfull \hbox (badness 10000) in paragraph at lines 180--185
 []\OT1/cmr/m/n/10 Conversely, ini-tial attempts to con-struct
  []
 
 
-Underfull \hbox (badness 2096) in paragraph at lines 176--181
+Underfull \hbox (badness 2096) in paragraph at lines 180--185
 \OT1/cmr/m/n/10 would exhibit higher expres-sion. Specif-i-cally, we
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 190--194
+Underfull \hbox (badness 1199) in paragraph at lines 194--198
 \OT1/cmr/m/n/10 mNeonGreen- and mTurquoise2-labeled con-structs
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 190--194
+Underfull \hbox (badness 1371) in paragraph at lines 194--198
 \OT1/cmr/m/n/10 tively, to match typ-i-cal PerM$[]$-mNG expres-sion
  []
 
-<../figures/fig3.png, id=197, 512.1534pt x 256.5585pt>
+<../figures/fig3.png, id=193, 512.1534pt x 256.5585pt>
 File: ../figures/fig3.png Graphic file (type png)
 <use ../figures/fig3.png>
-Package pdftex.def Info: ../figures/fig3.png  used on input line 197.
+Package pdftex.def Info: ../figures/fig3.png  used on input line 201.
 (pdftex.def)             Requested size: 480.0pt x 240.46428pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -759,21 +762,6 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
-
-<../figures/fig4.png, id=223, 512.1534pt x 281.6121pt>
-File: ../figures/fig4.png Graphic file (type png)
-<use ../figures/fig4.png>
-Package pdftex.def Info: ../figures/fig4.png  used on input line 236.
-(pdftex.def)             Requested size: 480.0pt x 263.94624pt.
-
-Underfull \hbox (badness 7685) in paragraph at lines 246--252
-[]\OT1/cmr/m/n/10 We con-structed mEos3.2-tagged vari-ants of
- []
-
-
-Underfull \hbox (badness 1609) in paragraph at lines 246--252
-\OT1/cmr/m/n/10 with either PerM$[]$-mNG or Pf3-mNG. Fig. [][]5[][]A
- []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -787,14 +775,30 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.252 
+l.237 
        <../figures/fig1_2.png>]
-Underfull \hbox (badness 1303) in paragraph at lines 253--275
+<../figures/fig4.png, id=226, 512.1534pt x 281.6121pt>
+File: ../figures/fig4.png Graphic file (type png)
+<use ../figures/fig4.png>
+Package pdftex.def Info: ../figures/fig4.png  used on input line 240.
+(pdftex.def)             Requested size: 480.0pt x 263.94624pt.
+
+Underfull \hbox (badness 7685) in paragraph at lines 250--256
+[]\OT1/cmr/m/n/10 We con-structed mEos3.2-tagged vari-ants of
+ []
+
+
+Underfull \hbox (badness 1609) in paragraph at lines 250--256
+\OT1/cmr/m/n/10 with either PerM$[]$-mNG or Pf3-mNG. Fig. [][]5[][]A
+ []
+
+
+Underfull \hbox (badness 1303) in paragraph at lines 257--279
 \OT1/cmr/m/n/10 dif-fer-ences in mean dif-fu-sion coef-fi-cients between
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 253--275
+Underfull \hbox (badness 2961) in paragraph at lines 257--279
 \OT1/cmr/m/n/10 of a slow-diffusion pop-u-la-tion at approx-i-mately
  []
 
@@ -810,12 +814,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.284 
+l.288 
        <../figures/fig2.png>]
-<../figures/fig5.png, id=246, 512.1534pt x 298.716pt>
+<../figures/fig5.png, id=243, 512.1534pt x 298.716pt>
 File: ../figures/fig5.png Graphic file (type png)
 <use ../figures/fig5.png>
-Package pdftex.def Info: ../figures/fig5.png  used on input line 287.
+Package pdftex.def Info: ../figures/fig5.png  used on input line 291.
 (pdftex.def)             Requested size: 480.0pt x 279.97717pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -835,10 +839,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.317 I
-       mprovements in transgenic expression of membrane proteins maybe gener... <../figures/fig3.png>]
-Underfull \hbox (badness 1509) in paragraph at lines 332--337
-\OT1/cmr/m/n/10 elon-ga-some com-po-nent PbpA Genetic inter-ac-tion
+l.317 
+       <../figures/fig3.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 324--327
+\OT1/cmr/m/n/10 ent deple-tion [[]], methio-n-ine residues that make
  []
 
 
@@ -856,8 +863,14 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.342 
+l.332 
        <../figures/fig4.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -869,15 +882,30 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 pdfTeX warning (ext4): destination with the same identifier (name{figure.6}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.406 
+l.354 
        <../figures/fig5.png>]
-Underfull \hbox (badness 2564) in paragraph at lines 409--412
+Underfull \hbox (badness 2564) in paragraph at lines 401--404
 \OT1/cmr/m/n/10 struc-tures of pre-dicted com-plexes (or from the
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 427--427
+Underfull \hbox (badness 10000) in alignment at lines 419--419
 [][][][] 
+ []
+
+
+Underfull \hbox (badness 10000) in alignment at lines 478--478
+[][][][][] 
+ []
+
+
+Underfull \hbox (badness 2469) in paragraph at lines 481--486
+\OT1/cmr/m/n/10 MG1655 and selected for growth on $50$$[] L[]$
+ []
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 481--486
+\OT1/cmr/m/n/10 car-beni-cillin and/or specti-nom-cin in LB or SOB
  []
 
 
@@ -888,38 +916,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []| []
  []
 
-[10
-pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.468 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.468 
-      
-pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.468 
-      ]
-Underfull \hbox (badness 2469) in paragraph at lines 489--494
-\OT1/cmr/m/n/10 MG1655 and selected for growth on $50$$[] L[]$
- []
-
-
-Underfull \hbox (badness 1028) in paragraph at lines 489--494
-\OT1/cmr/m/n/10 car-beni-cillin and/or specti-nom-cin in LB or SOB
- []
-
-
-Underfull \hbox (badness 1152) in paragraph at lines 497--501
+[10]
+Underfull \hbox (badness 1152) in paragraph at lines 489--493
 \OT1/cmr/m/n/10 (mNeon-Green track-ing) or com-bined $405$$[]$ and
  []
 
 
-Underfull \hbox (badness 1648) in paragraph at lines 509--515
+Underfull \hbox (badness 1648) in paragraph at lines 501--507
 \OT1/cmr/m/n/10 to have dif-fer-ent trans-la-tion ini-ti-a-tion rates, we
  []
 
@@ -935,19 +938,27 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [11
-pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{table.1}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.515 
+l.507 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.507 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{table.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.507 
       ]
-Underfull \hbox (badness 1354) in paragraph at lines 518--523
+Underfull \hbox (badness 1354) in paragraph at lines 510--515
 \OT1/cmr/m/n/10 single-pixel width and then thick-ened to a uni-
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 540--545
-\OT1/cmr/m/n/10 e-ters (200 iter-a-tions of refin-ing state occu-pancy,
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -958,61 +969,70 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [12
+pdfTeX warning (ext4): destination with the same identifier (name{table.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.523 \subsection
+                 {Inference of diffusion coefficient distributions}
 pdfTeX warning (ext4): destination with the same identifier (name{table.5}) has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.545 
-      ]
+l.523 \subsection
+                 {Inference of diffusion coefficient distributions}]
+Underfull \hbox (badness 1158) in paragraph at lines 532--537
+\OT1/cmr/m/n/10 e-ters (200 iter-a-tions of refin-ing state occu-pancy,
+ []
+
 
 Package hyperref Warning: Difference (3) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 550.
+(hyperref)                than one, level fixed on input line 542.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--553
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
  []\OT1/cmr/bx/n/10 Acknowledgements.[][] \OT1/cmr/m/n/10 ZH is sup-ported
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--553
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
 \OT1/cmr/m/n/10 by Funda^^Xc~ao para a Ci^encia e a Tec-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--553
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
 \OT1/cmr/m/n/10 nolo-gia (FCT) through MOSTMICRO-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--553
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
 \OT1/cmr/m/n/10 ITQB (DOI 10.54499/UIDB/04612/2020;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--553
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
 \OT1/cmr/m/n/10 DOI 10.54499/UIDP/04612/2020) and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--553
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
 \OT1/cmr/m/n/10 LS4FUTURE Asso-ci-ated Lab-o-ra-tory (DOI
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--553
+Underfull \hbox (badness 10000) in paragraph at lines 542--546
 \OT1/cmr/m/n/10 ported by a MOSTMICRO-ITQB Exploratory
  []
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 556.
+(hyperref)                than one, level fixed on input line 549.
 
 
-Underfull \hbox (badness 3657) in paragraph at lines 556--559
+Underfull \hbox (badness 3657) in paragraph at lines 549--552
  []\OT1/cmr/bx/n/10 Data avail-abil-ity.[][] \OT1/cmr/m/n/10 Plas-mids described in this
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 562--563
+Underfull \hbox (badness 2469) in paragraph at lines 555--556
  []\OT1/cmr/bx/n/10 Author con-tri-bu-tions.[][] \OT1/cmr/m/n/10 JF: molec-u-lar cloning,
  []
 
@@ -1027,6 +1047,14 @@ Underfull \hbox (badness 3128) in paragraph at lines 36--39
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]| []
+ []
+
+[13]
 Underfull \hbox (badness 1259) in paragraph at lines 51--54
 []\OT1/cmr/m/n/10 Wang, R. \OT1/cmr/m/it/10 et al.  \OT1/cmr/m/n/10 Per-sis-tent Mycobac-terium
  []
@@ -1056,24 +1084,8 @@ Underfull \hbox (badness 3449) in paragraph at lines 71--74
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]| []
- []
-
-[13]
 Underfull \hbox (badness 1502) in paragraph at lines 123--126
 []\OT1/cmr/m/n/10 Lee, P. A., Tullman-Ercek, D. & Geor-giou,
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 163--166
-[]\OT1/cmr/m/n/10 Sievers, F. \OT1/cmr/m/it/10 et al.  \OT1/cmr/m/n/10 Fast, scal-able gen-er-a-tion
  []
 
 
@@ -1088,12 +1100,17 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [14]
-Underfull \hbox (badness 1478) in paragraph at lines 237--240
-[]\OT1/cmr/m/n/10 Zhang, M. \OT1/cmr/m/it/10 et al.  \OT1/cmr/m/n/10 Ratio-nal design of true
+Underfull \hbox (badness 1092) in paragraph at lines 173--176
+[]\OT1/cmr/m/n/10 Sievers, F. \OT1/cmr/m/it/10 et al.  \OT1/cmr/m/n/10 Fast, scal-able gen-er-a-tion
  []
 
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 247--250
+[]\OT1/cmr/m/n/10 Zhang, M. \OT1/cmr/m/it/10 et al.  \OT1/cmr/m/n/10 Ratio-nal design of true
+ []
 
 )
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1104,21 +1121,21 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [15]
-<../figures/figS1.png, id=378, 512.1534pt x 469.5141pt>
+<../figures/figS1.png, id=381, 512.1534pt x 469.5141pt>
 File: ../figures/figS1.png Graphic file (type png)
 <use ../figures/figS1.png>
-Package pdftex.def Info: ../figures/figS1.png  used on input line 573.
+Package pdftex.def Info: ../figures/figS1.png  used on input line 566.
 (pdftex.def)             Requested size: 480.0pt x 440.06093pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.574 \caption
+l.567 \caption
               {The PerM phylogenetic tree from Fig.~\ref{fig1_1} is reproduc...
 pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.574 ...sidues with $pLDDT<50$ are colored gray.}
+l.567 ...sidues with $pLDDT<50$ are colored gray.}
                                                   \label{figS1}
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -1126,21 +1143,21 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  <../figures/figS1.png>] (./sn-article.aux)
 Package rerunfilecheck Info: File `sn-article.out' has not changed.
-(rerunfilecheck)             Checksum: 73429877C5334515C5FD338EA397B030;4637.
+(rerunfilecheck)             Checksum: EB7B95519ECCA0F5567D6590C8200E83;4478.
  ) 
 Here is how much of TeX's memory you used:
- 18515 strings out of 476025
- 347140 string characters out of 5790018
- 1880388 words of memory out of 5000000
- 38577 multiletter control sequences out of 15000+600000
+ 18523 strings out of 476025
+ 347452 string characters out of 5790018
+ 1886388 words of memory out of 5000000
+ 38584 multiletter control sequences out of 15000+600000
  551681 words of font info for 185 fonts, out of 8000000 for 9000
  1151 hyphenation exceptions out of 8191
- 90i,16n,90p,2009b,1196s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 90i,16n,90p,2009b,1166s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmbsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on sn-article.pdf (16 pages, 6710819 bytes).
+Output written on sn-article.pdf (16 pages, 6714587 bytes).
 PDF statistics:
- 523 PDF objects out of 1000 (max. 8388607)
- 432 compressed objects within 5 object streams
- 104 named destinations out of 1000 (max. 500000)
- 204 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 526 PDF objects out of 1000 (max. 8388607)
+ 435 compressed objects within 5 object streams
+ 105 named destinations out of 1000 (max. 500000)
+ 196 words of extra memory for PDF output out of 10000 (max. 10000000)
 
