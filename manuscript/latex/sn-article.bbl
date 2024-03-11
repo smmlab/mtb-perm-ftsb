@@ -11,6 +11,7 @@
 \bibinfo{author}{Houben, R. M. G.~J.} \& \bibinfo{author}{Dodd, P.~J.}
 \newblock \bibinfo{title}{The {{Global Burden}} of {{Latent Tuberculosis Infection}}: {{A Re-estimation Using Mathematical Modelling}}}.
 \newblock \emph{\bibinfo{journal}{PLOS Medicine}} \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{e1002152} (\bibinfo{year}{2016}).
+\newblock \doi{10.1371/journal.pmed.1002152}.
 
 \bibitem{whoLatentTuberculosisInfection2018}
 \bibinfo{author}{WHO}.
@@ -21,148 +22,187 @@
 \bibinfo{author}{Dale, K.~D.} \emph{et~al.}
 \newblock \bibinfo{title}{Quantifying the rates of late reactivation tuberculosis: A systematic review}.
 \newblock \emph{\bibinfo{journal}{The Lancet Infectious Diseases}} \textbf{\bibinfo{volume}{21}}, \bibinfo{pages}{e303--e317} (\bibinfo{year}{2021}).
+\newblock \doi{10.1016/S1473-3099(20)30728-3}.
 
 \bibitem{assefaEfficacySafetyDifferent2023}
 \bibinfo{author}{Assefa, D.~G.} \emph{et~al.}
 \newblock \bibinfo{title}{Efficacy and safety of different regimens in the treatment of patients with latent tuberculosis infection: A systematic review and network meta-analysis of randomized controlled trials}.
 \newblock \emph{\bibinfo{journal}{Archives of Public Health}} \textbf{\bibinfo{volume}{81}}, \bibinfo{pages}{82} (\bibinfo{year}{2023}).
+\newblock \doi{10.1186/s13690-023-01098-z}.
 
 \bibitem{liAcquiredResistanceIsoniazid2021}
 \bibinfo{author}{Li, T.-L.} \emph{et~al.}
 \newblock \bibinfo{title}{Acquired {{Resistance}} to {{Isoniazid During Isoniazid Monotherapy}} in a {{Subject}} with {{Latent Infection Following Household Rifampicin-Resistant Tuberculosis Contact}}: {{A Case Report}}}.
 \newblock \emph{\bibinfo{journal}{Infect Drug Resist}} \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{1505--1509} (\bibinfo{year}{2021}).
+\newblock \doi{10.2147/IDR.S304799}.
 
 \bibitem{dartoisAntituberculosisTreatmentStrategies2022}
 \bibinfo{author}{Dartois, V.~A.} \& \bibinfo{author}{Rubin, E.~J.}
 \newblock \bibinfo{title}{Anti-tuberculosis treatment strategies and drug development: Challenges and priorities}.
 \newblock \emph{\bibinfo{journal}{Nat Rev Microbiol}} \textbf{\bibinfo{volume}{20}}, \bibinfo{pages}{685--701} (\bibinfo{year}{2022}).
+\newblock \doi{10.1038/s41579-022-00731-y}.
 
 \bibitem{vandalMembraneProteinPreserves2008}
 \bibinfo{author}{Vandal, O.~H.}, \bibinfo{author}{Pierini, L.~M.}, \bibinfo{author}{Schnappinger, D.}, \bibinfo{author}{Nathan, C.~F.} \& \bibinfo{author}{Ehrt, S.}
 \newblock \bibinfo{title}{A membrane protein preserves intrabacterial {{pH}} in intraphagosomal {{Mycobacterium}} tuberculosis}.
-\newblock \emph{\bibinfo{journal}{Nature medicine}} \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{849} (\bibinfo{year}{2008}).
+\newblock \emph{\bibinfo{journal}{Nat Med}} \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{849--854} (\bibinfo{year}{2008}).
+\newblock \doi{10.1038/nm.1795}.
 
 \bibitem{goodsmithDisruptionTuberculosisMembrane2015}
 \bibinfo{author}{Goodsmith, N.} \emph{et~al.}
 \newblock \bibinfo{title}{Disruption of an {{M}}. tuberculosis {{Membrane Protein Causes}} a {{Magnesium-dependent Cell Division Defect}} and {{Failure}} to {{Persist}} in {{Mice}}}.
-\newblock \emph{\bibinfo{journal}{PLoS Pathogens}} \textbf{\bibinfo{volume}{11}} (\bibinfo{year}{2015}).
+\newblock \emph{\bibinfo{journal}{PLOS Pathogens}} \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{e1004645} (\bibinfo{year}{2015}).
+\newblock \doi{10.1371/journal.ppat.1004645}.
 
 \bibitem{wangPersistentMycobacteriumTuberculosis2019}
 \bibinfo{author}{Wang, R.} \emph{et~al.}
 \newblock \bibinfo{title}{Persistent {{Mycobacterium}} tuberculosis infection in mice requires {{PerM}} for successful cell division}.
 \newblock \emph{\bibinfo{journal}{eLife}} \textbf{\bibinfo{volume}{8}}, \bibinfo{pages}{e49570} (\bibinfo{year}{2019}).
+\newblock \doi{10.7554/eLife.49570}.
 
 \bibitem{meadeGenomewideScreenIdentifies2023}
 \bibinfo{author}{Meade, R.~K.} \emph{et~al.}
 \newblock \bibinfo{title}{Genome-wide screen identifies host loci that modulate {{Mycobacterium}} tuberculosis fitness in immunodivergent mice}.
 \newblock \emph{\bibinfo{journal}{G3 Genes{\textbar}Genomes{\textbar}Genetics}} \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{jkad147} (\bibinfo{year}{2023}).
+\newblock \doi{10.1093/g3journal/jkad147}.
 
 \bibitem{paulussenCovalentProteomimeticInhibitor2022}
 \bibinfo{author}{Paulussen, F.~M.} \emph{et~al.}
 \newblock \bibinfo{title}{Covalent {{Proteomimetic Inhibitor}} of the {{Bacterial FtsQB Divisome Complex}}}.
-\newblock \emph{\bibinfo{journal}{J. Am. Chem. Soc.}} \textbf{\bibinfo{volume}{144}}, \bibinfo{pages}{15303--15313} (\bibinfo{year}{2022}).
+\newblock \emph{\bibinfo{journal}{Journal of the American Chemical Society}} \textbf{\bibinfo{volume}{144}}, \bibinfo{pages}{15303--15313} (\bibinfo{year}{2022}).
+\newblock \doi{10.1021/jacs.2c06304}.
 
 \bibitem{wuCharacterizationConservedNovel2018}
 \bibinfo{author}{Wu, K.~J.} \emph{et~al.}
 \newblock \bibinfo{title}{Characterization of {{Conserved}} and {{Novel Septal Factors}} in {{Mycobacterium}} smegmatis}.
 \newblock \emph{\bibinfo{journal}{J Bacteriol}} \textbf{\bibinfo{volume}{200}}, \bibinfo{pages}{e00649--17} (\bibinfo{year}{2018}).
+\newblock \doi{10.1128/JB.00649-17}.
 
 \bibitem{graveHighthroughputStrategyIdentification2022}
 \bibinfo{author}{Gr{\=a}ve, K.}, \bibinfo{author}{Bennett, M.~D.} \& \bibinfo{author}{H{\"o}gbom, M.}
 \newblock \bibinfo{title}{High-throughput strategy for identification of {{Mycobacterium}} tuberculosis membrane protein expression conditions using folding reporter {{GFP}}}.
 \newblock \emph{\bibinfo{journal}{Protein Expr Purif}} \textbf{\bibinfo{volume}{198}}, \bibinfo{pages}{106132} (\bibinfo{year}{2022}).
+\newblock \doi{10.1016/j.pep.2022.106132}.
 
 \bibitem{korepanovaCloningExpressionMultiple2005}
 \bibinfo{author}{Korepanova, A.} \emph{et~al.}
 \newblock \bibinfo{title}{Cloning and expression of multiple integral membrane proteins from {{Mycobacterium}} tuberculosis in {{Escherichia}} coli}.
 \newblock \emph{\bibinfo{journal}{Protein Sci}} \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{148--158} (\bibinfo{year}{2005}).
+\newblock \doi{2023101017072700228}.
 
 \bibitem{baekAccuratePredictionProtein2021}
 \bibinfo{author}{Baek, M.} \emph{et~al.}
 \newblock \bibinfo{title}{Accurate prediction of protein structures and interactions using a three-track neural network}.
 \newblock \emph{\bibinfo{journal}{Science}} \textbf{\bibinfo{volume}{373}}, \bibinfo{pages}{871--876} (\bibinfo{year}{2021}).
+\newblock \doi{10/gk7nhq}.
 
 \bibitem{evansProteinComplexPrediction2022}
 \bibinfo{author}{Evans, R.} \emph{et~al.}
-\newblock \bibinfo{title}{Protein complex prediction with {{AlphaFold-Multimer}}} (\bibinfo{year}{2022}).
+\newblock \bibinfo{title}{Protein complex prediction with {{AlphaFold-Multimer}}}.
+\newblock \bibinfo{archiveprefix}{bioRxiv} \bibinfo{pages}{2021.10.04.463034} (\bibinfo{year}{2022}).
+\newblock \doi{10.1101/2021.10.04.463034}.
 
 \bibitem{attaibiUpdatedModelDivisome2022}
 \bibinfo{author}{Attaibi, M.} \& \bibinfo{author}{{den Blaauwen}, T.}
 \newblock \bibinfo{title}{An {{Updated Model}} of the {{Divisome}}: {{Regulation}} of the {{Septal Peptidoglycan Synthesis Machinery}} by the {{Divisome}}}.
-\newblock \emph{\bibinfo{journal}{Int J Mol Sci}} \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{3537} (\bibinfo{year}{2022}).
+\newblock \emph{\bibinfo{journal}{International Journal of Molecular Sciences}} \textbf{\bibinfo{volume}{23}}, \bibinfo{pages}{3537} (\bibinfo{year}{2022}).
+\newblock \doi{10.3390/ijms23073537}.
 
 \bibitem{cravenModelInteractionsFtsQLB2022}
 \bibinfo{author}{Craven, S.~J.}, \bibinfo{author}{Condon, S. G.~F.} \& \bibinfo{author}{Senes, A.}
-\newblock \bibinfo{title}{A model of the interactions between the {{FtsQLB}} and the {{FtsWI}} peptidoglycan synthase complex in bacterial cell division} (\bibinfo{year}{2022}).
+\newblock \bibinfo{title}{A model of the interactions between the {{FtsQLB}} and the {{FtsWI}} peptidoglycan synthase complex in bacterial cell division}.
+\newblock \bibinfo{archiveprefix}{bioRxiv} \bibinfo{pages}{2022.10.30.514410} (\bibinfo{year}{2022}).
+\newblock \doi{10.1101/2022.10.30.514410}.
 
 \bibitem{kashammerCryoEMStructureBacterial2023}
 \bibinfo{author}{K{\"a}shammer, L.} \emph{et~al.}
 \newblock \bibinfo{title}{Cryo-{{EM}} structure of the bacterial divisome core complex and antibiotic target {{FtsWIQBL}}}.
 \newblock \emph{\bibinfo{journal}{Nat Microbiol}} \bibinfo{pages}{1--11} (\bibinfo{year}{2023}).
+\newblock \doi{10.1038/s41564-023-01368-0}.
 
 \bibitem{brittonConformationalChangesEssential2023}
 \bibinfo{author}{Britton, B.~M.} \emph{et~al.}
 \newblock \bibinfo{title}{Conformational changes in the essential {{E}}. coli septal cell wall synthesis complex suggest an activation mechanism}.
 \newblock \emph{\bibinfo{journal}{Nat Commun}} \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{4585} (\bibinfo{year}{2023}).
+\newblock \doi{10.1038/s41467-023-39921-4}.
 
 \bibitem{parkEssentialDomainFtsN2023}
 \bibinfo{author}{Park, K.-T.}, \bibinfo{author}{Park, D.~J.}, \bibinfo{author}{Pichoff, S.}, \bibinfo{author}{Du, S.} \& \bibinfo{author}{Lutkenhaus, J.}
-\newblock \bibinfo{title}{The essential domain of {{FtsN}} triggers cell division by promoting interaction between {{FtsL}} and {{FtsI}}} (\bibinfo{year}{2023}).
+\newblock \bibinfo{title}{The essential domain of {{FtsN}} triggers cell division by promoting interaction between {{FtsL}} and {{FtsI}}}.
+\newblock \bibinfo{archiveprefix}{bioRxiv} \bibinfo{pages}{2023.05.12.540521} (\bibinfo{year}{2023}).
+\newblock \doi{10.1101/2023.05.12.540521}.
 
 \bibitem{bryantImprovedPredictionProteinprotein2022}
 \bibinfo{author}{Bryant, P.}, \bibinfo{author}{Pozzati, G.} \& \bibinfo{author}{Elofsson, A.}
 \newblock \bibinfo{title}{Improved prediction of protein-protein interactions using {{AlphaFold2}}}.
 \newblock \emph{\bibinfo{journal}{Nat Commun}} \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{1265} (\bibinfo{year}{2022}).
+\newblock \doi{10.1038/s41467-022-28865-w}.
 
 \bibitem{varadiAlphaFoldProteinStructure2022}
 \bibinfo{author}{Varadi, M.} \emph{et~al.}
 \newblock \bibinfo{title}{{{AlphaFold Protein Structure Database}}: Massively expanding the structural coverage of protein-sequence space with high-accuracy models}.
 \newblock \emph{\bibinfo{journal}{Nucleic Acids Research}} \textbf{\bibinfo{volume}{50}}, \bibinfo{pages}{D439--D444} (\bibinfo{year}{2022}).
+\newblock \doi{10.1093/nar/gkab1061}.
 
 \bibitem{leeBacterialTwinArginineTranslocation2006}
 \bibinfo{author}{Lee, P.~A.}, \bibinfo{author}{{Tullman-Ercek}, D.} \& \bibinfo{author}{Georgiou, G.}
 \newblock \bibinfo{title}{The {{Bacterial Twin-Arginine Translocation Pathway}}}.
 \newblock \emph{\bibinfo{journal}{Annu Rev Microbiol}} \textbf{\bibinfo{volume}{60}}, \bibinfo{pages}{373--395} (\bibinfo{year}{2006}).
+\newblock \doi{10.1146/annurev.micro.60.080805.142212}.
 
 \bibitem{kieferNegativelyChargedAmino1997}
 \bibinfo{author}{Kiefer, D.}, \bibinfo{author}{Hu, X.}, \bibinfo{author}{Dalbey, R.} \& \bibinfo{author}{Kuhn, A.}
-\newblock \bibinfo{title}{Negatively charged amino acid residues play an active role in orienting the {{Sec-independent Pf3}} coat protein in the {{Escherichia}} coli inner membrane}.
-\newblock \emph{\bibinfo{journal}{The EMBO journal}} \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{2197--204} (\bibinfo{year}{1997}).
+\newblock \bibinfo{title}{Negatively charged amino acid residues play an active role in orienting the {{Sec}}-independent {{Pf3}} coat protein in the {{Escherichia}} coli inner membrane}.
+\newblock \emph{\bibinfo{journal}{The EMBO Journal}} \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{2197--2204} (\bibinfo{year}{1997}).
+\newblock \doi{10.1093/emboj/16.9.2197}.
 
 \bibitem{lucenaMicrodomainFormationGeneral2018}
 \bibinfo{author}{Lucena, D.}, \bibinfo{author}{Mauri, M.}, \bibinfo{author}{Schmidt, F.}, \bibinfo{author}{Eckhardt, B.} \& \bibinfo{author}{Graumann, P.~L.}
 \newblock \bibinfo{title}{Microdomain formation is a general property of bacterial membrane proteins and induces heterogeneity of diffusion patterns}.
 \newblock \emph{\bibinfo{journal}{BMC Biol}} \textbf{\bibinfo{volume}{16}}, \bibinfo{pages}{97} (\bibinfo{year}{2018}).
+\newblock \doi{10.1186/s12915-018-0561-0}.
 
 \bibitem{heckertRecoveringMixturesFastdiffusing2022a}
 \bibinfo{author}{Heckert, A.}, \bibinfo{author}{Dahal, L.}, \bibinfo{author}{Tjian, R.} \& \bibinfo{author}{Darzacq, X.}
 \newblock \bibinfo{title}{Recovering mixtures of fast-diffusing states from short single-particle trajectories}.
 \newblock \emph{\bibinfo{journal}{eLife}} \textbf{\bibinfo{volume}{11}}, \bibinfo{pages}{e70169} (\bibinfo{year}{2022}).
+\newblock \doi{10.7554/eLife.70169}.
 
 \bibitem{hansenRobustModelbasedAnalysis2018a}
 \bibinfo{author}{Hansen, A.~S.} \emph{et~al.}
 \newblock \bibinfo{title}{Robust model-based analysis of single-particle tracking experiments with {{Spot-On}}}.
 \newblock \emph{\bibinfo{journal}{eLife}} \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{e33125} (\bibinfo{year}{2018}).
+\newblock \doi{10.7554/eLife.33125}.
 
 \bibitem{wangRv0954MemberMycobacterial2021a}
 \bibinfo{author}{Wang, R.} \& \bibinfo{author}{Ehrt, S.}
 \newblock \bibinfo{title}{Rv0954 {{Is}} a {{Member}} of the {{Mycobacterial Cell Division Complex}}}.
-\newblock \emph{\bibinfo{journal}{Front. Microbiol.}} \textbf{\bibinfo{volume}{12}} (\bibinfo{year}{2021}).
+\newblock \emph{\bibinfo{journal}{Frontiers in Microbiology}} \textbf{\bibinfo{volume}{12}} (\bibinfo{year}{2021}).
+\newblock \doi{10.3389/fmicb.2021.626461}.
 
 \bibitem{baranowskiDreamMycobacterium2019}
 \bibinfo{author}{Baranowski, C.}, \bibinfo{author}{Rego, E.~H.} \& \bibinfo{author}{Rubin, E.~J.}
 \newblock \bibinfo{title}{The {{Dream}} of a {{Mycobacterium}}}.
 \newblock \emph{\bibinfo{journal}{Microbiology Spectrum}} \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{10.1128/microbiolspec.gpp3--0008--2018} (\bibinfo{year}{2019}).
+\newblock \doi{10.1128/microbiolspec.gpp3-0008-2018}.
+
+\bibitem{shlosmanAllostericActivationCell2023}
+\bibinfo{author}{Shlosman, I.} \emph{et~al.}
+\newblock \bibinfo{title}{Allosteric activation of cell wall synthesis during bacterial growth}.
+\newblock \emph{\bibinfo{journal}{Nat Commun}} \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{3439} (\bibinfo{year}{2023}).
+\newblock \doi{10.1038/s41467-023-39037-9}.
 
 \bibitem{mirditaColabFoldMakingProtein2022}
 \bibinfo{author}{Mirdita, M.} \emph{et~al.}
 \newblock \bibinfo{title}{{{ColabFold}}: Making protein folding accessible to all}.
 \newblock \emph{\bibinfo{journal}{Nat Methods}} \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{679--682} (\bibinfo{year}{2022}).
+\newblock \doi{10.1038/s41592-022-01488-1}.
 
 \bibitem{steineggerMMseqs2EnablesSensitive2017}
 \bibinfo{author}{Steinegger, M.} \& \bibinfo{author}{S{\"o}ding, J.}
 \newblock \bibinfo{title}{{{MMseqs2}} enables sensitive protein sequence searching for the analysis of massive data sets}.
 \newblock \emph{\bibinfo{journal}{Nat Biotechnol}} \textbf{\bibinfo{volume}{35}}, \bibinfo{pages}{1026--1028} (\bibinfo{year}{2017}).
+\newblock \doi{10/ggctnw}.
 
 \bibitem{delanoPymolOpensourceMolecular2002}
 \bibinfo{author}{DeLano, W.~L.}
@@ -173,90 +213,109 @@
 \bibinfo{author}{Sievers, F.} \emph{et~al.}
 \newblock \bibinfo{title}{Fast, scalable generation of high-quality protein multiple sequence alignments using {{Clustal Omega}}}.
 \newblock \emph{\bibinfo{journal}{Mol Syst Biol}} \textbf{\bibinfo{volume}{7}}, \bibinfo{pages}{539} (\bibinfo{year}{2011}).
+\newblock \doi{10/bmv826}.
 
 \bibitem{kunzmannBiotiteUnifyingOpen2018}
 \bibinfo{author}{Kunzmann, P.} \& \bibinfo{author}{Hamacher, K.}
 \newblock \bibinfo{title}{Biotite: A unifying open source computational biology framework in {{Python}}}.
 \newblock \emph{\bibinfo{journal}{BMC Bioinformatics}} \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{346} (\bibinfo{year}{2018}).
+\newblock \doi{10.1186/s12859-018-2367-z}.
 
 \bibitem{hallgrenDeepTMHMMPredictsAlpha2022}
 \bibinfo{author}{Hallgren, J.} \emph{et~al.}
-\newblock \bibinfo{title}{{{DeepTMHMM}} predicts alpha and beta transmembrane proteins using deep neural networks} (\bibinfo{year}{2022}).
+\newblock \bibinfo{title}{{{DeepTMHMM}} predicts alpha and beta transmembrane proteins using deep neural networks}.
+\newblock \bibinfo{archiveprefix}{bioRxiv} \bibinfo{pages}{2022.04.08.487609} (\bibinfo{year}{2022}).
+\newblock \doi{10.1101/2022.04.08.487609}.
 
 \bibitem{tareenLogomakerBeautifulSequence2020}
 \bibinfo{author}{Tareen, A.} \& \bibinfo{author}{Kinney, J.~B.}
 \newblock \bibinfo{title}{Logomaker: Beautiful sequence logos in {{Python}}}.
 \newblock \emph{\bibinfo{journal}{Bioinformatics}} \textbf{\bibinfo{volume}{36}}, \bibinfo{pages}{2272--2274} (\bibinfo{year}{2020}).
+\newblock \doi{10.1093/bioinformatics/btz921}.
 
 \bibitem{wuCHARMMGUIMembraneBuilder2014}
 \bibinfo{author}{Wu, E.~L.} \emph{et~al.}
 \newblock \bibinfo{title}{{{CHARMM-GUI Membrane Builder}} toward realistic biological membrane simulations}.
 \newblock \emph{\bibinfo{journal}{Journal of Computational Chemistry}} \textbf{\bibinfo{volume}{35}}, \bibinfo{pages}{1997--2004} (\bibinfo{year}{2014}).
+\newblock \doi{10/f6kgzz}.
 
 \bibitem{huangCHARMM36mImprovedForce2017}
 \bibinfo{author}{Huang, J.} \emph{et~al.}
 \newblock \bibinfo{title}{{{CHARMM36m}}: An improved force field for folded and intrinsically disordered proteins}.
 \newblock \emph{\bibinfo{journal}{Nat Methods}} \textbf{\bibinfo{volume}{14}}, \bibinfo{pages}{71--73} (\bibinfo{year}{2017}).
+\newblock \doi{10/gfxkj3}.
 
 \bibitem{eastmanOpenMMRapidDevelopment2017}
 \bibinfo{author}{Eastman, P.} \emph{et~al.}
 \newblock \bibinfo{title}{{{OpenMM}} 7: {{Rapid}} development of high performance algorithms for molecular dynamics}.
 \newblock \emph{\bibinfo{journal}{PLOS Computational Biology}} \textbf{\bibinfo{volume}{13}}, \bibinfo{pages}{e1005659} (\bibinfo{year}{2017}).
+\newblock \doi{10/gbppkv}.
 
 \bibitem{brownMolecularModelingSimulation2023}
 \bibinfo{author}{Brown, T.}, \bibinfo{author}{Chavent, M.} \& \bibinfo{author}{Im, W.}
 \newblock \bibinfo{title}{Molecular {{Modeling}} and {{Simulation}} of the {{Mycobacterial Cell Envelope}}: {{From Individual Components}} to {{Cell Envelope Assemblies}}}.
 \newblock \emph{\bibinfo{journal}{J. Phys. Chem. B}} \textbf{\bibinfo{volume}{127}}, \bibinfo{pages}{10941--10949} (\bibinfo{year}{2023}).
+\newblock \doi{10.1021/acs.jpcb.3c06136}.
 
 \bibitem{suhCHARMMGUIEnhancedSampler2022}
 \bibinfo{author}{Suh, D.} \emph{et~al.}
 \newblock \bibinfo{title}{{{CHARMM-GUI Enhanced Sampler}} for various collective variables and enhanced sampling methods}.
 \newblock \emph{\bibinfo{journal}{Protein Sci}} \textbf{\bibinfo{volume}{31}}, \bibinfo{pages}{e4446} (\bibinfo{year}{2022}).
+\newblock \doi{10.1002/pro.4446}.
 
 \bibitem{kappelAcceleratedMolecularDynamics2015}
 \bibinfo{author}{Kappel, K.}, \bibinfo{author}{Miao, Y.} \& \bibinfo{author}{McCammon, J.~A.}
 \newblock \bibinfo{title}{Accelerated molecular dynamics simulations of ligand binding to a muscarinic {{G-protein-coupled}} receptor}.
 \newblock \emph{\bibinfo{journal}{Quarterly Reviews of Biophysics}} \textbf{\bibinfo{volume}{48}}, \bibinfo{pages}{479--487} (\bibinfo{year}{2015}).
+\newblock \doi{10.1017/S0033583515000153}.
 
 \bibitem{gaoCHARMMGUISupportsHydrogen2021}
 \bibinfo{author}{Gao, Y.} \emph{et~al.}
 \newblock \bibinfo{title}{{{CHARMM-GUI Supports Hydrogen Mass Repartitioning}} and {{Different Protonation States}} of {{Phosphates}} in {{Lipopolysaccharides}}}.
-\newblock \emph{\bibinfo{journal}{J. Chem. Inf. Model.}} \textbf{\bibinfo{volume}{61}}, \bibinfo{pages}{831--839} (\bibinfo{year}{2021}).
+\newblock \emph{\bibinfo{journal}{Journal of Chemical Information and Modeling}} \textbf{\bibinfo{volume}{61}}, \bibinfo{pages}{831--839} (\bibinfo{year}{2021}).
+\newblock \doi{10.1021/acs.jcim.0c01360}.
 
 \bibitem{gowersMDAnalysisPythonPackage2016}
 \bibinfo{author}{Gowers, R.~J.} \emph{et~al.}
 \newblock \bibinfo{title}{{{MDAnalysis}}: {{A Python Package}} for the {{Rapid Analysis}} of {{Molecular Dynamics Simulations}}}.
 \newblock \emph{\bibinfo{journal}{Proceedings of the 15th Python in Science Conference}} \bibinfo{pages}{98--105} (\bibinfo{year}{2016}).
+\newblock \doi{10.25080/Majora-629e541a-00e}.
 
 \bibitem{michaud-agrawalMDAnalysisToolkitAnalysis2011}
 \bibinfo{author}{{Michaud-Agrawal}, N.}, \bibinfo{author}{Denning, E.~J.}, \bibinfo{author}{Woolf, T.~B.} \& \bibinfo{author}{Beckstein, O.}
 \newblock \bibinfo{title}{{{MDAnalysis}}: A toolkit for the analysis of molecular dynamics simulations}.
 \newblock \emph{\bibinfo{journal}{J Comput Chem}} \textbf{\bibinfo{volume}{32}}, \bibinfo{pages}{2319--2327} (\bibinfo{year}{2011}).
+\newblock \doi{10.1002/jcc.21787}.
 
 \bibitem{goedhartStructureguidedEvolutionCyan2012}
 \bibinfo{author}{Goedhart, J.} \emph{et~al.}
 \newblock \bibinfo{title}{Structure-guided evolution of cyan fluorescent proteins towards a quantum yield of 93\%}.
-\newblock \emph{\bibinfo{journal}{Nature communications}} \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{751} (\bibinfo{year}{2012}).
+\newblock \emph{\bibinfo{journal}{Nat Commun}} \textbf{\bibinfo{volume}{3}}, \bibinfo{pages}{751} (\bibinfo{year}{2012}).
+\newblock \doi{10.1038/ncomms1738}.
 
 \bibitem{shanerBrightMonomericGreen2013}
 \bibinfo{author}{Shaner, N.~C.} \emph{et~al.}
 \newblock \bibinfo{title}{A bright monomeric green fluorescent protein derived from {{Branchiostoma}} lanceolatum}.
 \newblock \emph{\bibinfo{journal}{Nat Methods}} \textbf{\bibinfo{volume}{10}}, \bibinfo{pages}{407--409} (\bibinfo{year}{2013}).
+\newblock \doi{10/f24459}.
 
 \bibitem{zhangRationalDesignTrue2012}
 \bibinfo{author}{Zhang, M.} \emph{et~al.}
 \newblock \bibinfo{title}{Rational design of true monomeric and bright photoactivatable fluorescent proteins}.
-\newblock \emph{\bibinfo{journal}{Nature methods}} \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{727--9} (\bibinfo{year}{2012}).
+\newblock \emph{\bibinfo{journal}{Nat Methods}} \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{727--729} (\bibinfo{year}{2012}).
+\newblock \doi{10.1038/nmeth.2021}.
 
 \bibitem{henselPlasmidbasedEscherichiaColi2017}
 \bibinfo{author}{Hensel, Z.}
 \newblock \bibinfo{title}{A plasmid-based {{Escherichia}} coli gene expression system with cell-to-cell variation below the extrinsic noise limit}.
 \newblock \emph{\bibinfo{journal}{PLOS ONE}} \textbf{\bibinfo{volume}{12}}, \bibinfo{pages}{e0187259} (\bibinfo{year}{2017}).
+\newblock \doi{10/gcg8pf}.
 
 \bibitem{silvaPlasmidsIndependentlyTunable2019}
 \bibinfo{author}{Silva, J. P.~N.}, \bibinfo{author}{Lopes, S.~V.}, \bibinfo{author}{Grilo, D.~J.} \& \bibinfo{author}{Hensel, Z.}
 \newblock \bibinfo{title}{Plasmids for {{Independently Tunable}}, {{Low-Noise Expression}} of {{Two Genes}}}.
 \newblock \emph{\bibinfo{journal}{mSphere}} \textbf{\bibinfo{volume}{4}} (\bibinfo{year}{2019}).
+\newblock \doi{10/gf3vhf}.
 
 \bibitem{neidhardtCultureMediumEnterobacteria1974}
 \bibinfo{author}{Neidhardt, F.~C.}, \bibinfo{author}{Bloch, P.~L.} \& \bibinfo{author}{Smith, D.~F.}
@@ -267,15 +326,18 @@
 \bibinfo{author}{Schindelin, J.} \emph{et~al.}
 \newblock \bibinfo{title}{Fiji: An open-source platform for biological-image analysis}.
 \newblock \emph{\bibinfo{journal}{Nature methods}} \textbf{\bibinfo{volume}{9}}, \bibinfo{pages}{676--82} (\bibinfo{year}{2012}).
+\newblock \doi{10/f34d7c}.
 
 \bibitem{cutlerOmniposeHighprecisionMorphologyindependent2022}
 \bibinfo{author}{Cutler, K.~J.} \emph{et~al.}
 \newblock \bibinfo{title}{Omnipose: A high-precision morphology-independent solution for bacterial cell segmentation}.
 \newblock \emph{\bibinfo{journal}{Nat Methods}} \textbf{\bibinfo{volume}{19}}, \bibinfo{pages}{1438--1448} (\bibinfo{year}{2022}).
+\newblock \doi{10.1038/s41592-022-01639-4}.
 
 \bibitem{tinevezTrackMateOpenExtensible2017}
 \bibinfo{author}{Tinevez, J.-Y.} \emph{et~al.}
 \newblock \bibinfo{title}{{{TrackMate}}: {{An}} open and extensible platform for single-particle tracking}.
 \newblock \emph{\bibinfo{journal}{Methods}} \textbf{\bibinfo{volume}{115}}, \bibinfo{pages}{80--90} (\bibinfo{year}{2017}).
+\newblock \doi{10.1016/j.ymeth.2016.09.016}.
 
 \end{thebibliography}

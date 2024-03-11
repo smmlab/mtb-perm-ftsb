@@ -371,14 +371,14 @@
 \setlength\floatsep{18\p@ \@plus 4\p@ \@minus 2\p@}
 
 % Space between floats and text
-\setlength\textfloatsep{15\p@ \@plus 4\p@ \@minus 2\p@}
+\setlength\textfloatsep{12\p@ \@plus 4\p@ \@minus 2\p@}
 
 % Space above and below an inline figure
-\setlength\intextsep   {18\p@ \@plus 4\p@ \@minus 2\p@}
+\setlength\intextsep   {12\p@ \@plus 4\p@ \@minus 2\p@}
 
 % For double column floats
-\setlength\dblfloatsep    {20\p@ \@plus 4\p@ \@minus 2\p@}
-\setlength\dbltextfloatsep{15\p@ \@plus 4\p@ \@minus 2\p@}
+\setlength\dblfloatsep    {12\p@ \@plus 4\p@ \@minus 2\p@}
+\setlength\dbltextfloatsep{12\p@ \@plus 4\p@ \@minus 2\p@}
 
 \hyphenation{Figure Figures Table Tables Equation Equations Section Sections Appendix Theorem Lemma}
 

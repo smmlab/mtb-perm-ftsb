@@ -1294,6 +1294,7 @@ FUNCTION {article}
       "journal" bibinfo.check
       emphasize
       "journal" output.check
+      archiveprefix "archiveprefix" bibinfo.check output
       add.blank
       format.vol.num.pages output
       format.date "year" output.check
@@ -1303,11 +1304,12 @@ FUNCTION {article}
     }
   if$
   new.block
+  new.block
   format.url output
   new.block
-  %%  format.doi output
-  format.note output
-  %%format.eprint output
+  format.doi output
+  %% format.note output
+  %% format.eprint output
   %%  format.soft.eprint output
   %%  add.blank
   %%  format.primaryClass output
