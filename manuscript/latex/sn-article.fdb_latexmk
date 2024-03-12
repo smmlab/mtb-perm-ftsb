@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex sn-article"] 1710199546 "sn-article.aux" "sn-article.bbl" "sn-article" 1710199548 0
+["bibtex sn-article"] 1710199546 "sn-article.aux" "sn-article.bbl" "sn-article" 1710243165 0
   "./perm-ftsb.bib" 1710179748 111292 24878a50faaba6a34c71e5dd3583d924 ""
   "./sn-nature.bst" 1710179747 38418 b22beeabc71ee55c35a5e7df460132b8 ""
-  "sn-article.aux" 1710199548 31529 0f743037a5bfc4c8a8d518778e50920a "pdflatex"
+  "sn-article.aux" 1710243165 31529 0f743037a5bfc4c8a8d518778e50920a "pdflatex"
   (generated)
   "sn-article.bbl"
   "sn-article.blg"
   (rewritten before read)
-["pdflatex"] 1710199546 "/Users/zach/Desktop/github/mtb-perm-ftsb/manuscript/latex/sn-article.tex" "sn-article.pdf" "sn-article" 1710199548 0
+["pdflatex"] 1710243162 "/Users/zach/Desktop/github/mtb-perm-ftsb/manuscript/latex/sn-article.tex" "sn-article.pdf" "sn-article" 1710243165 0
   "../figures/fig1_1.png" 1709556392 1437298 a6caac5dae354016eae53f26ad904925 ""
   "../figures/fig1_2.png" 1709557644 701786 71d187d0b3b1a88da6aa43fddfe49e42 ""
   "../figures/fig2.png" 1709482503 548295 94ac3c018d372e0ba55c7e5bbb1b28bf ""
@@ -15,7 +15,7 @@
   "../figures/fig4.png" 1709725041 536373 b5ee1b3a93aba947e98c275188731c26 ""
   "../figures/fig5.png" 1710041509 1869486 0c43c2a44c3b17608f5661959ae4e8d0 ""
   "../figures/figS1.png" 1709472361 1046852 375164d06c35a0b96ae3be82d03c36fc ""
-  "/Users/zach/Desktop/github/mtb-perm-ftsb/manuscript/latex/sn-article.tex" 1710199543 68668 ec6bd7bc3bfc9248b5eab8546c59eb6b ""
+  "/Users/zach/Desktop/github/mtb-perm-ftsb/manuscript/latex/sn-article.tex" 1710243162 68668 a4c2a71cf94edac19061bfde9085a42b ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/jknappen/ec/tcrm0500.tfm" 1136768653 1536 b3387106d9afecbfe14bde2de6eadf47 ""
@@ -191,10 +191,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1707205363 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1707205358 7883459 cc3946ad6061eed867fca79c0235dfdc ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "sn-article.aux" 1710199548 31529 0f743037a5bfc4c8a8d518778e50920a "pdflatex"
+  "sn-article.aux" 1710243165 31529 0f743037a5bfc4c8a8d518778e50920a "pdflatex"
   "sn-article.bbl" 1710199546 23077 34de1c2d23aa101b5a9811f4bef7f8eb "bibtex sn-article"
-  "sn-article.out" 1710199548 4506 68fb6a2d38752c5ecbd5f74be41e42e9 "pdflatex"
-  "sn-article.tex" 1710199543 68668 ec6bd7bc3bfc9248b5eab8546c59eb6b ""
+  "sn-article.out" 1710243165 4506 68fb6a2d38752c5ecbd5f74be41e42e9 "pdflatex"
+  "sn-article.tex" 1710243162 68668 a4c2a71cf94edac19061bfde9085a42b ""
   "sn-jnl.cls" 1710198882 55479 2ef585ac0a34642aaf91068de97169e2 ""
   (generated)
   "sn-article.aux"
